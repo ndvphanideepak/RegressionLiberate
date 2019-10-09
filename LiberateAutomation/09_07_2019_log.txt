@@ -1,0 +1,4 @@
+09/07/2019 11:56:22 PM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+09/07/2019 11:56:28 PM : WARNING : WebDriverException occured
+09/07/2019 11:56:28 PM : Waiting for '1' seconds
+09/07/2019 11:56:29 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'

@@ -1,0 +1,86 @@
+08/24/2019 10:00:53 AM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/24/2019 10:01:15 AM : Counting the occurence of element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']'
+08/24/2019 10:01:15 AM : Count is : 0
+08/24/2019 10:01:15 AM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/24/2019 10:01:15 AM : WARNING : WebDriverException occured
+08/24/2019 10:01:15 AM : Waiting for '1' seconds
+08/24/2019 10:01:16 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:01:16 AM : Count is : 0
+08/24/2019 10:01:16 AM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/24/2019 10:01:16 AM : WARNING : WebDriverException occured
+08/24/2019 10:01:16 AM : Waiting for '1' seconds
+08/24/2019 10:01:17 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:01:17 AM : Count is : 0
+08/24/2019 10:01:17 AM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/24/2019 10:01:17 AM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/24/2019 10:01:17 AM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/24/2019 10:01:17 AM : WARNING : WebDriverException occured
+08/24/2019 10:01:17 AM : Waiting for '1' seconds
+08/24/2019 10:01:18 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:01:18 AM : Count is : 0
+08/24/2019 10:01:18 AM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/24/2019 10:01:18 AM : WARNING : WebDriverException occured
+08/24/2019 10:01:18 AM : Waiting for '1' seconds
+08/24/2019 10:01:19 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:01:19 AM : Count is : 0
+08/24/2019 10:01:19 AM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/24/2019 10:01:19 AM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/24/2019 10:01:19 AM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/24/2019 10:01:20 AM : WARNING : WebDriverException occured
+08/24/2019 10:01:20 AM : Waiting for '1' seconds
+08/24/2019 10:01:21 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:01:21 AM : Count is : 0
+08/24/2019 10:01:21 AM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/24/2019 10:01:21 AM : WARNING : WebDriverException occured
+08/24/2019 10:01:21 AM : Waiting for '1' seconds
+08/24/2019 10:01:22 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:01:22 AM : Count is : 0
+08/24/2019 10:01:22 AM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/24/2019 10:01:22 AM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/24/2019 10:01:22 AM : Waiting '60' seconds for 'By.xpath: //*[@id='login:loginButtonImg']' to disappear
+08/24/2019 10:01:22 AM : Counting the occurence of element 'By.xpath: //iframe[@id='liberate']'
+08/24/2019 10:01:22 AM : Count is : 0
+08/24/2019 10:01:22 AM : Waiting '60' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']' to appear
+08/24/2019 10:01:37 AM : WARNING : WebDriverException occured
+08/24/2019 10:01:37 AM : Waiting for '1' seconds
+08/24/2019 10:01:38 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:01:42 AM : WARNING : WebDriverException occured
+08/24/2019 10:01:42 AM : Waiting for '1' seconds
+08/24/2019 10:01:43 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:01:47 AM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/24/2019 10:01:47 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:01:51 AM : WARNING : WebDriverException occured
+08/24/2019 10:01:51 AM : Waiting for '1' seconds
+08/24/2019 10:01:52 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:01:56 AM : WARNING : WebDriverException occured
+08/24/2019 10:01:56 AM : Waiting for '1' seconds
+08/24/2019 10:01:57 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:02:01 AM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/24/2019 10:02:01 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:02:05 AM : WARNING : WebDriverException occured
+08/24/2019 10:02:05 AM : Waiting for '1' seconds
+08/24/2019 10:02:06 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:02:10 AM : WARNING : WebDriverException occured
+08/24/2019 10:02:10 AM : Waiting for '1' seconds
+08/24/2019 10:02:11 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:02:15 AM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/24/2019 10:02:15 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:02:19 AM : WARNING : WebDriverException occured
+08/24/2019 10:02:19 AM : Waiting for '1' seconds
+08/24/2019 10:02:20 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:02:24 AM : WARNING : WebDriverException occured
+08/24/2019 10:02:24 AM : Waiting for '1' seconds
+08/24/2019 10:02:25 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:02:29 AM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/24/2019 10:02:29 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:02:33 AM : WARNING : WebDriverException occured
+08/24/2019 10:02:33 AM : Waiting for '1' seconds
+08/24/2019 10:02:34 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:02:38 AM : WARNING : WebDriverException occured
+08/24/2019 10:02:39 AM : Waiting for '1' seconds
+08/24/2019 10:02:40 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:02:44 AM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/24/2019 10:02:44 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/24/2019 10:02:48 AM : WARNING : WebDriverException occured
+08/24/2019 10:02:48 AM : Waiting for '1' seconds
+08/24/2019 10:02:49 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'

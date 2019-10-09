@@ -1,0 +1,1788 @@
+08/26/2019 10:58:23 AM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/26/2019 10:58:28 AM : Counting the occurence of element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']'
+08/26/2019 10:58:28 AM : Count is : 0
+08/26/2019 10:58:28 AM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/26/2019 10:58:28 AM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/26/2019 10:58:28 AM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/26/2019 10:58:28 AM : Waiting '60' seconds for 'By.xpath: //*[@id='login:loginButtonImg']' to disappear
+08/26/2019 10:58:37 AM : Counting the occurence of element 'By.xpath: //iframe[@id='liberate']'
+08/26/2019 10:58:37 AM : Count is : 0
+08/26/2019 10:58:37 AM : Waiting '60' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']' to appear
+08/26/2019 10:58:37 AM : Scrolling up
+08/26/2019 10:58:37 AM : Waiting for '1' seconds
+08/26/2019 10:58:38 AM : Waiting '4' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']' to appear
+08/26/2019 10:58:38 AM : Clicking on element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']'
+08/26/2019 10:58:41 AM : Waiting '4' seconds for 'By.xpath: //div[@class='subheadermenu_row']/descendant::*[text()[contains(.,'Service Provisioning')]]' to appear
+08/26/2019 10:58:41 AM : Clicking on element 'By.xpath: //div[@class='subheadermenu_row']/descendant::*[text()[contains(.,'Service Provisioning')]]'
+08/26/2019 10:58:44 AM : Waiting '4' seconds for 'By.xpath: //div[@class='icePnlClpsblHdr singletabcollapsiblepanelHdr']/descendant::*[text()='Application Details']' to appear
+08/26/2019 10:58:44 AM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 10:58:44 AM : Count is : 1
+08/26/2019 10:58:44 AM : Clicking on element 'By.xpath: //input[@value='OK']'
+08/26/2019 10:58:44 AM : Waiting '2' seconds for 'By.xpath: //input[@value='OK']' to disappear
+08/26/2019 10:58:45 AM : Waiting '2' seconds for 'By.xpath: //*[text()='Application Form:']/following::select[1]' to appear
+08/26/2019 10:58:45 AM : Selecting value 'Fixed(Residential)' from 'By.xpath: //*[text()='Application Form:']/following::select[1]'
+08/26/2019 10:58:45 AM : Waiting for '2' seconds
+08/26/2019 10:58:47 AM : Selecting value 'R - Residential' from 'By.xpath: //*[text()='Customer Type:']/./following::select[1]'
+08/26/2019 10:58:47 AM : Waiting for '2' seconds
+08/26/2019 10:58:49 AM : Full Text : PEL - Provide Exchange Line
+08/26/2019 10:58:49 AM : Selecting value 'PEL - Provide Exchange Line' from 'By.xpath: //*[text()='Service Type:']/./following::select[1]'
+08/26/2019 10:58:49 AM : Waiting for '2' seconds
+08/26/2019 10:58:53 AM : Full Text : TESTPEL-TESTPEL(PEL)
+08/26/2019 10:58:53 AM : Selecting value 'TESTPEL-TESTPEL(PEL)' from 'By.xpath: //*[text()='Service Package:']/./following::select[1]'
+08/26/2019 10:58:53 AM : Waiting for '2' seconds
+08/26/2019 10:58:55 AM : Clicking on element 'By.xpath: //input[contains(@value,'Proceed')]'
+08/26/2019 10:59:00 AM : Waiting '4' seconds for 'By.xpath: //*[text()='Salutation:']/following::select[1]' to appear
+08/26/2019 10:59:00 AM : Counting the occurence of element 'By.xpath: //*[text()='Salutation:']/following::select[1]'
+08/26/2019 10:59:00 AM : Count is : 1
+08/26/2019 10:59:00 AM : Counting the occurence of element 'By.xpath: //*[text()='Salutation:']/following::select[1]'
+08/26/2019 10:59:00 AM : Count is : 1
+08/26/2019 10:59:00 AM : Selecting index '2' from 'By.xpath: //*[text()='Salutation:']/following::select[1]'
+08/26/2019 10:59:00 AM : Waiting for '1' seconds
+08/26/2019 10:59:01 AM : Getting selected value from 'By.xpath: //*[text()='Salutation:']/following::select[1]'
+08/26/2019 10:59:01 AM : Selected value is : MS
+08/26/2019 10:59:01 AM : Selected value : MS
+08/26/2019 10:59:01 AM : Counting the occurence of element 'By.xpath: //*[text()='Surname:']/following::input[1]'
+08/26/2019 10:59:01 AM : Count is : 1
+08/26/2019 10:59:01 AM : Sending data 'kSfSz5twVP2TXcdWucCsQijqs' to field 'By.xpath: //*[text()='Surname:']/following::input[1]'
+08/26/2019 10:59:02 AM : Counting the occurence of element 'By.xpath: //*[text()='First Name:']/following::input[1]'
+08/26/2019 10:59:02 AM : Count is : 1
+08/26/2019 10:59:02 AM : Sending data 'fBMV1ePxtr4qTkcLwpMoMrSUr' to field 'By.xpath: //*[text()='First Name:']/following::input[1]'
+08/26/2019 11:01:16 AM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/26/2019 2:45:30 PM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/26/2019 2:45:35 PM : Counting the occurence of element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']'
+08/26/2019 2:45:35 PM : Count is : 0
+08/26/2019 2:45:35 PM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/26/2019 2:45:35 PM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/26/2019 2:45:35 PM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/26/2019 2:45:36 PM : Waiting '60' seconds for 'By.xpath: //*[@id='login:loginButtonImg']' to disappear
+08/26/2019 2:45:43 PM : Counting the occurence of element 'By.xpath: //iframe[@id='liberate']'
+08/26/2019 2:45:43 PM : Count is : 0
+08/26/2019 2:45:43 PM : Waiting '60' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']' to appear
+08/26/2019 2:45:43 PM : Scrolling up
+08/26/2019 2:45:43 PM : Waiting for '1' seconds
+08/26/2019 2:45:44 PM : Scrolling up
+08/26/2019 2:45:44 PM : Waiting for '1' seconds
+08/26/2019 2:45:45 PM : Waiting '4' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']' to appear
+08/26/2019 2:45:45 PM : Clicking on element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']'
+08/26/2019 2:45:47 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Service No.:']/following::input[1]' to appear
+08/26/2019 2:45:47 PM : Sending data '78902535' to field 'By.xpath: //*[text()='Service No.:']/following::input[1]'
+08/26/2019 2:45:47 PM : Waiting for '1' seconds
+08/26/2019 2:45:48 PM : Clicking on element 'By.xpath: //input[@value='Search']'
+08/26/2019 2:45:48 PM : Waiting for '4' seconds
+08/26/2019 2:45:52 PM : Counting the occurence of element 'By.xpath: //*[text()='Quick Search']'
+08/26/2019 2:45:52 PM : Count is : 0
+08/26/2019 2:45:52 PM : Waiting for '2' seconds
+08/26/2019 2:45:55 PM : Waiting for '2' seconds
+08/26/2019 2:45:57 PM : Counting the occurence of element 'By.xpath: //*[text()='Exclude Closed/Ceased Accounts:']'
+08/26/2019 2:45:57 PM : Count is : 0
+08/26/2019 2:45:57 PM : Counting the occurence of element 'By.xpath: //*[text()='Summary']'
+08/26/2019 2:45:57 PM : Count is : 0
+08/26/2019 2:45:57 PM : Clicking on element 'By.xpath: //td[@class='bodyleftcol']/descendant::*[text()='Services']'
+08/26/2019 2:46:00 PM : Waiting for '20' seconds
+08/26/2019 2:46:21 PM : Waiting '5' seconds for 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Change')]]' to appear
+08/26/2019 2:46:21 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Change')]]'
+08/26/2019 2:46:21 PM : Waiting for '1' seconds
+08/26/2019 2:46:22 PM : Waiting '5' seconds for 'By.xpath: //*[text()='Change Handset']' to appear
+08/26/2019 2:46:27 PM : WARNING : TimeoutException occured
+08/26/2019 2:46:27 PM : Clicking on element 'By.xpath: //*[text()='Change Handset']'
+08/26/2019 2:46:27 PM : WARNING : InvalidElementStateException occured
+08/26/2019 2:46:27 PM : Waiting for '1' seconds
+08/26/2019 2:46:28 PM : Clicking on element 'By.xpath: //*[text()='Change Handset']'
+08/26/2019 2:46:28 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 2:46:28 PM : Waiting for '1' seconds
+08/26/2019 2:46:30 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Department:']//following::select[1]' to appear
+08/26/2019 2:46:34 PM : WARNING : TimeoutException occured
+08/26/2019 2:46:34 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Site:']//following::select[@disabled='disabled'][1]' to disappear
+08/26/2019 2:46:34 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:salesPersonSearch']'
+08/26/2019 2:46:34 PM : Count is : 0
+08/26/2019 2:46:34 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:searchMagnifier']'
+08/26/2019 2:46:34 PM : Count is : 0
+08/26/2019 2:46:34 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:salesPerson']'
+08/26/2019 2:46:34 PM : Count is : 0
+08/26/2019 2:46:34 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 2:46:34 PM : Count is : 0
+08/26/2019 2:46:34 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 2:46:34 PM : Count is : 0
+08/26/2019 2:46:34 PM : ERROR : Element located by 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']' is not available.
+08/26/2019 2:46:34 PM : Counting the occurence of element 'By.xpath: //*[text() = 'Application Source:']//following::select[1]'
+08/26/2019 2:46:34 PM : Count is : 0
+08/26/2019 2:46:34 PM : ERROR : Element located by 'By.xpath: //*[text() = 'Application Source:']//following::select[1]' is not available.
+08/26/2019 2:46:35 PM : Waiting '4' seconds for 'By.xpath: //select[@id='alterForm:creason']' to appear
+08/26/2019 2:46:39 PM : WARNING : TimeoutException occured
+08/26/2019 2:46:39 PM : Counting the occurence of element 'By.xpath: //select[@id='alterForm:creason']'
+08/26/2019 2:46:39 PM : Count is : 0
+08/26/2019 2:46:39 PM : ERROR : Element located by 'By.xpath: //select[@id='alterForm:creason']' is not available.
+08/26/2019 2:46:39 PM : Getting text from 'By.xpath: //*[text()='Current handset:']/following::span[1]'
+08/26/2019 2:46:39 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 2:46:39 PM : Waiting '4' seconds for 'By.xpath: //select[@id='alterForm:productID']' to appear
+08/26/2019 2:46:43 PM : WARNING : TimeoutException occured
+08/26/2019 2:46:43 PM : Counting the occurence of element 'By.xpath: //select[@id='alterForm:productID']'
+08/26/2019 2:46:43 PM : Count is : 0
+08/26/2019 2:46:43 PM : ERROR : Element located by 'By.xpath: //select[@id='alterForm:productID']' is not available.
+08/26/2019 2:46:43 PM : Getting text from 'By.xpath: //*[text()='Product:']/following::select[1]'
+08/26/2019 2:46:43 PM : WARNING : WebDriverException occured
+08/26/2019 2:46:43 PM : Waiting for '1' seconds
+08/26/2019 2:46:44 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 2:46:44 PM : Count is : 0
+08/26/2019 2:46:44 PM : Getting text from 'By.xpath: //*[text()='Product:']/following::select[1]'
+08/26/2019 2:46:44 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 2:46:44 PM : Waiting '4' seconds for 'By.xpath: //*[@value='Accept']' to appear
+08/26/2019 2:46:49 PM : WARNING : TimeoutException occured
+08/26/2019 2:46:49 PM : Clicking on element 'By.xpath: //*[@value='Accept']'
+08/26/2019 2:46:49 PM : WARNING : WebDriverException occured
+08/26/2019 2:46:49 PM : Waiting for '1' seconds
+08/26/2019 2:46:50 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 2:46:50 PM : Count is : 0
+08/26/2019 2:46:50 PM : Clicking on element 'By.xpath: //*[@value='Accept']'
+08/26/2019 2:46:50 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 2:46:50 PM : Waiting '20' seconds for 'By.xpath: //*[text()='Cellular Handset Successfully Altered']' to appear
+08/26/2019 2:47:02 PM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/26/2019 2:47:06 PM : Counting the occurence of element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']'
+08/26/2019 2:47:06 PM : Count is : 0
+08/26/2019 2:47:06 PM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/26/2019 2:47:07 PM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/26/2019 2:47:07 PM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/26/2019 2:47:07 PM : Waiting '60' seconds for 'By.xpath: //*[@id='login:loginButtonImg']' to disappear
+08/26/2019 2:47:16 PM : Counting the occurence of element 'By.xpath: //iframe[@id='liberate']'
+08/26/2019 2:47:16 PM : Count is : 0
+08/26/2019 2:47:16 PM : Waiting '60' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']' to appear
+08/26/2019 2:47:16 PM : Scrolling up
+08/26/2019 2:47:16 PM : Waiting for '1' seconds
+08/26/2019 2:47:17 PM : Scrolling up
+08/26/2019 2:47:17 PM : Waiting for '1' seconds
+08/26/2019 2:47:18 PM : Waiting '4' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']' to appear
+08/26/2019 2:47:18 PM : Clicking on element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']'
+08/26/2019 2:47:21 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Service No.:']/following::input[1]' to appear
+08/26/2019 2:47:22 PM : Sending data '78902535' to field 'By.xpath: //*[text()='Service No.:']/following::input[1]'
+08/26/2019 2:47:22 PM : Waiting for '1' seconds
+08/26/2019 2:47:23 PM : Clicking on element 'By.xpath: //input[@value='Search']'
+08/26/2019 2:47:23 PM : Waiting for '4' seconds
+08/26/2019 2:47:27 PM : Counting the occurence of element 'By.xpath: //*[text()='Quick Search']'
+08/26/2019 2:47:27 PM : Count is : 0
+08/26/2019 2:47:27 PM : Waiting for '2' seconds
+08/26/2019 2:47:29 PM : Waiting for '2' seconds
+08/26/2019 2:47:31 PM : Counting the occurence of element 'By.xpath: //*[text()='Exclude Closed/Ceased Accounts:']'
+08/26/2019 2:47:31 PM : Count is : 0
+08/26/2019 2:47:31 PM : Counting the occurence of element 'By.xpath: //*[text()='Summary']'
+08/26/2019 2:47:31 PM : Count is : 0
+08/26/2019 2:47:31 PM : Clicking on element 'By.xpath: //td[@class='bodyleftcol']/descendant::*[text()='Services']'
+08/26/2019 2:47:35 PM : Waiting for '20' seconds
+08/26/2019 2:47:55 PM : Waiting '5' seconds for 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Change')]]' to appear
+08/26/2019 2:48:00 PM : WARNING : TimeoutException occured
+08/26/2019 2:48:00 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Change')]]'
+08/26/2019 2:48:00 PM : WARNING : WebDriverException occured
+08/26/2019 2:48:00 PM : Waiting for '1' seconds
+08/26/2019 2:48:01 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 2:48:02 PM : Count is : 0
+08/26/2019 2:48:02 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Change')]]'
+08/26/2019 2:48:02 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 2:48:02 PM : Waiting for '1' seconds
+08/26/2019 2:48:03 PM : Waiting '5' seconds for 'By.xpath: //*[text()='Change Handset']' to appear
+08/26/2019 2:48:08 PM : WARNING : TimeoutException occured
+08/26/2019 2:48:08 PM : Clicking on element 'By.xpath: //*[text()='Change Handset']'
+08/26/2019 2:48:08 PM : WARNING : WebDriverException occured
+08/26/2019 2:48:08 PM : Waiting for '1' seconds
+08/26/2019 2:48:09 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 2:48:09 PM : Count is : 0
+08/26/2019 2:48:09 PM : Clicking on element 'By.xpath: //*[text()='Change Handset']'
+08/26/2019 2:48:09 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 2:48:09 PM : Waiting for '1' seconds
+08/26/2019 2:48:10 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Department:']//following::select[1]' to appear
+08/26/2019 2:48:11 PM : Full Text : AQSAL - Anderson Sq Sales
+08/26/2019 2:48:11 PM : Selecting value 'AQSAL - Anderson Sq Sales' from 'By.xpath: //*[text()='Department:']//following::select[1]'
+08/26/2019 2:48:11 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Site:']//following::select[@disabled='disabled'][1]' to disappear
+08/26/2019 2:48:15 PM : WARNING : TimeoutException occured
+08/26/2019 2:48:15 PM : Full Text : ANSQ-Anderson Square Store
+08/26/2019 2:48:15 PM : Selecting value 'ANSQ-Anderson Square Store' from 'By.xpath: //*[text()='Site:']//following::select[1]'
+08/26/2019 2:48:15 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:salesPersonSearch']'
+08/26/2019 2:48:15 PM : Count is : 0
+08/26/2019 2:48:15 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:searchMagnifier']'
+08/26/2019 2:48:15 PM : Count is : 0
+08/26/2019 2:48:15 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:salesPerson']'
+08/26/2019 2:48:15 PM : Count is : 0
+08/26/2019 2:48:15 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 2:48:15 PM : Count is : 0
+08/26/2019 2:48:15 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 2:48:15 PM : Count is : 0
+08/26/2019 2:48:15 PM : ERROR : Element located by 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']' is not available.
+08/26/2019 2:48:15 PM : Counting the occurence of element 'By.xpath: //*[text() = 'Application Source:']//following::select[1]'
+08/26/2019 2:48:15 PM : Count is : 1
+08/26/2019 2:48:15 PM : Selecting index '1' from 'By.xpath: //*[text() = 'Application Source:']//following::select[1]'
+08/26/2019 2:48:16 PM : Waiting for '1' seconds
+08/26/2019 2:48:17 PM : Getting selected value from 'By.xpath: //*[text() = 'Application Source:']//following::select[1]'
+08/26/2019 2:48:17 PM : Selected value is : 1-CITN TV Commercial
+08/26/2019 2:48:17 PM : Selected value : 1-CITN TV Commercial
+08/26/2019 2:48:17 PM : Waiting '4' seconds for 'By.xpath: //select[@id='alterForm:creason']' to appear
+08/26/2019 2:48:17 PM : Counting the occurence of element 'By.xpath: //select[@id='alterForm:creason']'
+08/26/2019 2:48:17 PM : Count is : 1
+08/26/2019 2:48:17 PM : Selecting index '1' from 'By.xpath: //select[@id='alterForm:creason']'
+08/26/2019 2:48:17 PM : Waiting for '1' seconds
+08/26/2019 2:48:18 PM : Getting selected value from 'By.xpath: //select[@id='alterForm:creason']'
+08/26/2019 2:48:18 PM : Selected value is : 3-Sub. Leaving Island
+08/26/2019 2:48:18 PM : Selected value : 3-Sub. Leaving Island
+08/26/2019 2:48:18 PM : Getting text from 'By.xpath: //*[text()='Current handset:']/following::span[1]'
+08/26/2019 2:48:18 PM : Text is : 60001-HandsetA Nokia 6610
+08/26/2019 2:48:18 PM : Waiting '4' seconds for 'By.xpath: //select[@id='alterForm:productID']' to appear
+08/26/2019 2:48:18 PM : Counting the occurence of element 'By.xpath: //select[@id='alterForm:productID']'
+08/26/2019 2:48:18 PM : Count is : 1
+08/26/2019 2:48:18 PM : Selecting index '1' from 'By.xpath: //select[@id='alterForm:productID']'
+08/26/2019 2:48:19 PM : Waiting for '1' seconds
+08/26/2019 2:48:20 PM : Getting selected value from 'By.xpath: //select[@id='alterForm:productID']'
+08/26/2019 2:48:20 PM : Selected value is : 4012-Cellular Phone Tellular
+08/26/2019 2:48:20 PM : Selected value : 4012-Cellular Phone Tellular
+08/26/2019 2:48:20 PM : Getting text from 'By.xpath: //*[text()='Product:']/following::select[1]'
+08/26/2019 2:48:20 PM : Text is : -- Select --
+4012-Cellular Phone Tellular
+50958-Blackberry Handset
+50959-HipTop Handset
+60001-HandsetA Nokia 6610
+60010-Handset Nokia 1665 revised
+60101-Handset H1A
+60102-Handset H1B
+60103-Handset H2A
+60104-Handset H2B
+60105-Handset H3A
+60106-Handset H3B
+60107-Handset List4
+60108-Handset with Promotion
+60109-Handset Csh A
+60110-Handset Csh B
+60111-Handset sale method E - A
+60112-Handset sale method E - B
+60113-Handset sale method F - A
+60114-Handset sale method F - B
+60115-Product Sales Price - search 3
+60201-Handset T1 - sale price - cash
+60202-Handset T2 - sale price - Bill
+60203-Handset T3 - rental price
+60204-Handset T3 - rental price
+62102-New System Product
+601661-NOKIA-1661
+602760-NOKIA-2760
+603000-Handset Product for demo
+603001-Handset Product for demo purposes
+08/26/2019 2:48:20 PM : Waiting '4' seconds for 'By.xpath: //*[@value='Accept']' to appear
+08/26/2019 2:48:20 PM : Clicking on element 'By.xpath: //*[@value='Accept']'
+08/26/2019 2:48:20 PM : Waiting '20' seconds for 'By.xpath: //*[text()='Cellular Handset Successfully Altered']' to appear
+08/26/2019 2:48:24 PM : Waiting '4' seconds for 'By.xpath: (//th[contains(@class,'ui-widget-header')]//child::div//descendant::input)[2]' to appear
+08/26/2019 2:48:28 PM : WARNING : TimeoutException occured
+08/26/2019 2:48:28 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[2]//span'
+08/26/2019 2:48:28 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 2:48:29 PM : Waiting '4' seconds for 'By.xpath: (//th[contains(@class,'ui-widget-header')]//child::div//descendant::input)[2]' to appear
+08/26/2019 2:48:33 PM : WARNING : TimeoutException occured
+08/26/2019 2:48:33 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[6]//span'
+08/26/2019 2:48:33 PM : WARNING : WebDriverException occured
+08/26/2019 2:48:33 PM : Waiting for '1' seconds
+08/26/2019 2:48:34 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 2:48:34 PM : Count is : 1
+08/26/2019 2:48:34 PM : Clicking on element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 2:48:34 PM : Waiting '2' seconds for 'By.xpath: //input[@value='OK']' to disappear
+08/26/2019 2:48:36 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[6]//span'
+08/26/2019 2:48:36 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 2:57:24 PM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/26/2019 2:57:29 PM : Counting the occurence of element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']'
+08/26/2019 2:57:29 PM : Count is : 0
+08/26/2019 2:57:29 PM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/26/2019 2:57:29 PM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/26/2019 2:57:29 PM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/26/2019 2:57:30 PM : Waiting '60' seconds for 'By.xpath: //*[@id='login:loginButtonImg']' to disappear
+08/26/2019 2:57:42 PM : Counting the occurence of element 'By.xpath: //iframe[@id='liberate']'
+08/26/2019 2:57:42 PM : Count is : 0
+08/26/2019 2:57:42 PM : Waiting '60' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']' to appear
+08/26/2019 2:57:42 PM : Scrolling up
+08/26/2019 2:57:42 PM : Waiting for '1' seconds
+08/26/2019 2:57:43 PM : Scrolling up
+08/26/2019 2:57:43 PM : Waiting for '1' seconds
+08/26/2019 2:57:44 PM : Waiting '4' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']' to appear
+08/26/2019 2:57:44 PM : Clicking on element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']'
+08/26/2019 2:57:49 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Service No.:']/following::input[1]' to appear
+08/26/2019 2:57:49 PM : Sending data '155656' to field 'By.xpath: //*[text()='Service No.:']/following::input[1]'
+08/26/2019 2:57:49 PM : Waiting for '1' seconds
+08/26/2019 2:57:50 PM : Clicking on element 'By.xpath: //input[@value='Search']'
+08/26/2019 2:57:50 PM : Waiting for '4' seconds
+08/26/2019 2:57:54 PM : Counting the occurence of element 'By.xpath: //*[text()='Quick Search']'
+08/26/2019 2:57:54 PM : Count is : 0
+08/26/2019 2:57:54 PM : Waiting for '2' seconds
+08/26/2019 2:57:57 PM : Waiting for '2' seconds
+08/26/2019 2:57:59 PM : Counting the occurence of element 'By.xpath: //*[text()='Exclude Closed/Ceased Accounts:']'
+08/26/2019 2:57:59 PM : Count is : 0
+08/26/2019 2:57:59 PM : Counting the occurence of element 'By.xpath: //*[text()='Summary']'
+08/26/2019 2:57:59 PM : Count is : 0
+08/26/2019 2:57:59 PM : Clicking on element 'By.xpath: //td[@class='bodyleftcol']/descendant::*[text()='Services']'
+08/26/2019 2:58:02 PM : Waiting for '20' seconds
+08/26/2019 2:58:22 PM : Waiting '5' seconds for 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Products')]]' to appear
+08/26/2019 2:58:28 PM : WARNING : TimeoutException occured
+08/26/2019 2:58:28 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Products')]]'
+08/26/2019 2:58:28 PM : WARNING : WebDriverException occured
+08/26/2019 2:58:28 PM : Waiting for '1' seconds
+08/26/2019 2:58:29 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 2:58:29 PM : Count is : 0
+08/26/2019 2:58:29 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Products')]]'
+08/26/2019 2:58:29 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 2:58:29 PM : Waiting for '1' seconds
+08/26/2019 2:58:30 PM : Waiting '5' seconds for 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')]/preceding::span[contains(@class,'actionButton')][text()[contains(.,'Change Line Product')]]' to appear
+08/26/2019 2:58:35 PM : WARNING : TimeoutException occured
+08/26/2019 2:58:35 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')]/preceding::span[contains(@class,'actionButton')][text()[contains(.,'Change Line Product')]]'
+08/26/2019 2:58:35 PM : WARNING : WebDriverException occured
+08/26/2019 2:58:35 PM : Waiting for '1' seconds
+08/26/2019 2:58:36 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 2:58:36 PM : Count is : 0
+08/26/2019 2:58:36 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')]/preceding::span[contains(@class,'actionButton')][text()[contains(.,'Change Line Product')]]'
+08/26/2019 2:58:36 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 2:58:36 PM : Waiting for '5' seconds
+08/26/2019 2:58:41 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Department:']//following::select[1]' to appear
+08/26/2019 2:58:42 PM : Full Text : AQSAL - Anderson Sq Sales
+08/26/2019 2:58:42 PM : Selecting value 'AQSAL - Anderson Sq Sales' from 'By.xpath: //*[text()='Department:']//following::select[1]'
+08/26/2019 2:58:42 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Site:']//following::select[@disabled='disabled'][1]' to disappear
+08/26/2019 2:58:43 PM : Full Text : ANSQ-Anderson Square Store
+08/26/2019 2:58:43 PM : Selecting value 'ANSQ-Anderson Square Store' from 'By.xpath: //*[text()='Site:']//following::select[1]'
+08/26/2019 2:58:44 PM : Waiting '4' seconds for 'By.xpath: //*[@id="alterForm:salesPerson"]' to disappear
+08/26/2019 2:58:48 PM : WARNING : TimeoutException occured
+08/26/2019 2:58:48 PM : Counting the occurence of element 'By.xpath: //*[@id="alterForm:salesPerson"]'
+08/26/2019 2:58:48 PM : Count is : 1
+08/26/2019 2:58:48 PM : Selecting index '1' from 'By.xpath: //*[@id="alterForm:salesPerson"]'
+08/26/2019 2:58:48 PM : Waiting for '1' seconds
+08/26/2019 2:58:49 PM : Getting selected value from 'By.xpath: //*[@id="alterForm:salesPerson"]'
+08/26/2019 2:58:49 PM : Selected value is : 99999-RHQ DEVELOP
+08/26/2019 2:58:49 PM : Selected value : 99999-RHQ DEVELOP
+08/26/2019 2:58:49 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Application Source:']//following::select[1]' to disappear
+08/26/2019 2:58:54 PM : WARNING : TimeoutException occured
+08/26/2019 2:58:54 PM : Counting the occurence of element 'By.xpath: //*[text()='Application Source:']//following::select[1]'
+08/26/2019 2:58:54 PM : Count is : 1
+08/26/2019 2:58:54 PM : Selecting index '1' from 'By.xpath: //*[text()='Application Source:']//following::select[1]'
+08/26/2019 2:58:54 PM : Waiting for '1' seconds
+08/26/2019 2:58:55 PM : Getting selected value from 'By.xpath: //*[text()='Application Source:']//following::select[1]'
+08/26/2019 2:58:55 PM : Selected value is : 1-CITN TV Commercial
+08/26/2019 2:58:55 PM : Selected value : 1-CITN TV Commercial
+08/26/2019 2:58:56 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Product:']//following::select[5]' to disappear
+08/26/2019 2:59:00 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 2:59:00 PM : Counting the occurence of element 'By.xpath: //*[text()='Product:']//following::select[5]'
+08/26/2019 2:59:00 PM : Count is : 1
+08/26/2019 2:59:00 PM : Selecting index '4' from 'By.xpath: //*[text()='Product:']//following::select[5]'
+08/26/2019 2:59:00 PM : Waiting for '1' seconds
+08/26/2019 2:59:01 PM : Getting selected value from 'By.xpath: //*[text()='Product:']//following::select[5]'
+08/26/2019 2:59:01 PM : Selected value is : 7-Direct Exchange Line - Business FAX
+08/26/2019 2:59:01 PM : Selected value : 7-Direct Exchange Line - Business FAX
+08/26/2019 2:59:02 PM : Clicking on element 'By.xpath: //*[@value='Accept']'
+08/26/2019 2:59:02 PM : Waiting for '5' seconds
+08/26/2019 2:59:07 PM : Clicking on element 'By.xpath: //*[@value='Accept']'
+08/26/2019 2:59:07 PM : WARNING : WebDriverException occured
+08/26/2019 2:59:07 PM : Waiting for '1' seconds
+08/26/2019 2:59:08 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 2:59:08 PM : Count is : 0
+08/26/2019 2:59:08 PM : Clicking on element 'By.xpath: //*[@value='Accept']'
+08/26/2019 2:59:09 PM : Waiting for '2' seconds
+08/26/2019 2:59:11 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 2:59:11 PM : Count is : 0
+08/26/2019 2:59:11 PM : Waiting '80' seconds for 'By.xpath: //*[text()='Service Order Lines']' to appear
+08/26/2019 3:00:31 PM : WARNING : TimeoutException occured
+08/26/2019 3:00:31 PM : Waiting '4' seconds for 'By.xpath: //*[text()[contains(.,'Service Package successfully provisioned')]]' to appear
+08/26/2019 3:00:35 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 3:00:35 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:00:35 PM : Count is : 0
+08/26/2019 3:00:35 PM : Getting text from 'By.xpath: //*[text()='Account Number:']//following::span[1]'
+08/26/2019 3:00:35 PM : WARNING : WebDriverException occured
+08/26/2019 3:00:35 PM : Waiting for '1' seconds
+08/26/2019 3:00:36 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:00:36 PM : Count is : 0
+08/26/2019 3:00:36 PM : Getting text from 'By.xpath: //*[text()='Account Number:']//following::span[1]'
+08/26/2019 3:00:36 PM : WARNING : WebDriverException occured
+08/26/2019 3:00:36 PM : Waiting for '1' seconds
+08/26/2019 3:00:37 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:00:37 PM : Count is : 0
+08/26/2019 3:00:37 PM : Getting text from 'By.xpath: //*[text()='Account Number:']//following::span[1]'
+08/26/2019 3:00:37 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 3:00:37 PM : Getting text from 'By.xpath: //*[text()='Service No:']//following::span[1]'
+08/26/2019 3:00:37 PM : WARNING : WebDriverException occured
+08/26/2019 3:00:37 PM : Waiting for '1' seconds
+08/26/2019 3:00:38 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:00:38 PM : Count is : 0
+08/26/2019 3:00:38 PM : Getting text from 'By.xpath: //*[text()='Service No:']//following::span[1]'
+08/26/2019 3:00:38 PM : WARNING : WebDriverException occured
+08/26/2019 3:00:38 PM : Waiting for '1' seconds
+08/26/2019 3:00:39 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:00:39 PM : Count is : 0
+08/26/2019 3:00:39 PM : Getting text from 'By.xpath: //*[text()='Service No:']//following::span[1]'
+08/26/2019 3:00:40 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 3:00:40 PM : Getting text from 'By.xpath: //*[text()='Service Order No:']//following::span[1]'
+08/26/2019 3:00:40 PM : WARNING : WebDriverException occured
+08/26/2019 3:00:40 PM : Waiting for '1' seconds
+08/26/2019 3:00:41 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:00:41 PM : Count is : 0
+08/26/2019 3:00:41 PM : Getting text from 'By.xpath: //*[text()='Service Order No:']//following::span[1]'
+08/26/2019 3:00:41 PM : WARNING : WebDriverException occured
+08/26/2019 3:00:41 PM : Waiting for '1' seconds
+08/26/2019 3:00:42 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:00:42 PM : Count is : 0
+08/26/2019 3:00:42 PM : Getting text from 'By.xpath: //*[text()='Service Order No:']//following::span[1]'
+08/26/2019 3:00:42 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 3:00:42 PM : Counting the occurence of element 'By.xpath: //*[text()='Payment Summary']//following::tbody[2]//descendant::input[@checked='checked']'
+08/26/2019 3:00:42 PM : Count is : 0
+08/26/2019 3:00:42 PM : Counting the occurence of element 'By.xpath: //*[text()='Municipality Code:']//following::select[1]'
+08/26/2019 3:00:42 PM : Count is : 0
+08/26/2019 3:00:42 PM : Counting the occurence of element 'By.xpath: //*[text()='Contact Name:']//following::input[1]'
+08/26/2019 3:00:42 PM : Count is : 1
+08/26/2019 3:00:42 PM : Sending data 'Test Name' to field 'By.xpath: //*[text()='Contact Name:']//following::input[1]'
+08/26/2019 3:00:42 PM : WARNING : InvalidElementStateException occured
+08/26/2019 3:00:42 PM : Waiting for '1' seconds
+08/26/2019 3:00:43 PM : Sending data 'Test Name' to field 'By.xpath: //*[text()='Contact Name:']//following::input[1]'
+08/26/2019 3:00:43 PM : WARNING : InvalidElementStateException occured
+08/26/2019 3:00:43 PM : Waiting for '1' seconds
+08/26/2019 3:00:44 PM : Sending data 'Test Name' to field 'By.xpath: //*[text()='Contact Name:']//following::input[1]'
+08/26/2019 3:00:44 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 3:00:44 PM : Counting the occurence of element 'By.xpath: //*[text()='Contact No :']//following::input[1]'
+08/26/2019 3:00:44 PM : Count is : 0
+08/26/2019 3:00:44 PM : Waiting '4' seconds for 'By.xpath: //input[@value='Submit Order']' to appear
+08/26/2019 3:00:49 PM : WARNING : TimeoutException occured
+08/26/2019 3:00:49 PM : Clicking on element 'By.xpath: //input[@value='Submit Order']'
+08/26/2019 3:00:49 PM : WARNING : WebDriverException occured
+08/26/2019 3:00:49 PM : Waiting for '1' seconds
+08/26/2019 3:00:50 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:00:50 PM : Count is : 0
+08/26/2019 3:00:50 PM : Clicking on element 'By.xpath: //input[@value='Submit Order']'
+08/26/2019 3:00:50 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 3:00:50 PM : Waiting for '4' seconds
+08/26/2019 3:00:54 PM : Counting the occurence of element 'By.xpath: //*[text()='Service order signed off successfully.']'
+08/26/2019 3:00:54 PM : Count is : 0
+08/26/2019 3:00:54 PM : Counting the occurence of element 'By.xpath: //*[text()='Account eBilling Email Address Entry']//following::input[1]'
+08/26/2019 3:00:54 PM : Count is : 0
+08/26/2019 3:00:54 PM : Counting the occurence of element 'By.xpath: //input[@value='Sign Off']'
+08/26/2019 3:00:54 PM : Count is : 0
+08/26/2019 3:00:54 PM : Counting the occurence of element 'By.xpath: //*[@value = 'Accept']'
+08/26/2019 3:00:54 PM : Count is : 0
+08/26/2019 3:00:54 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:00:54 PM : Count is : 0
+08/26/2019 3:00:54 PM : Waiting '4' seconds for 'By.xpath: (//th[contains(@class,'ui-widget-header')]//child::div//descendant::input)[2]' to appear
+08/26/2019 3:00:54 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[2]//span'
+08/26/2019 3:00:54 PM : WARNING : WebDriverException occured
+08/26/2019 3:00:54 PM : Waiting for '1' seconds
+08/26/2019 3:00:55 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:00:55 PM : Count is : 0
+08/26/2019 3:00:55 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[2]//span'
+08/26/2019 3:00:55 PM : WARNING : WebDriverException occured
+08/26/2019 3:00:55 PM : Waiting for '1' seconds
+08/26/2019 3:00:56 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:00:56 PM : Count is : 0
+08/26/2019 3:00:56 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[2]//span'
+08/26/2019 3:00:56 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 3:00:57 PM : Waiting '4' seconds for 'By.xpath: (//th[contains(@class,'ui-widget-header')]//child::div//descendant::input)[2]' to appear
+08/26/2019 3:00:57 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[6]//span'
+08/26/2019 3:00:57 PM : WARNING : WebDriverException occured
+08/26/2019 3:00:57 PM : Waiting for '1' seconds
+08/26/2019 3:00:58 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:00:58 PM : Count is : 0
+08/26/2019 3:00:58 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[6]//span'
+08/26/2019 3:00:58 PM : WARNING : WebDriverException occured
+08/26/2019 3:00:58 PM : Waiting for '1' seconds
+08/26/2019 3:00:59 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:00:59 PM : Count is : 0
+08/26/2019 3:00:59 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[6]//span'
+08/26/2019 3:00:59 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 3:09:26 PM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/26/2019 3:09:33 PM : Counting the occurence of element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']'
+08/26/2019 3:09:33 PM : Count is : 0
+08/26/2019 3:09:33 PM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/26/2019 3:09:33 PM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/26/2019 3:09:33 PM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/26/2019 3:09:33 PM : Waiting '60' seconds for 'By.xpath: //*[@id='login:loginButtonImg']' to disappear
+08/26/2019 3:09:38 PM : Counting the occurence of element 'By.xpath: //iframe[@id='liberate']'
+08/26/2019 3:09:38 PM : Count is : 0
+08/26/2019 3:09:38 PM : Waiting '60' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']' to appear
+08/26/2019 3:09:38 PM : Scrolling up
+08/26/2019 3:09:38 PM : Waiting for '1' seconds
+08/26/2019 3:09:39 PM : Scrolling up
+08/26/2019 3:09:39 PM : Waiting for '1' seconds
+08/26/2019 3:09:40 PM : Waiting '4' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']' to appear
+08/26/2019 3:09:40 PM : Clicking on element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']'
+08/26/2019 3:09:42 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Service No.:']/following::input[1]' to appear
+08/26/2019 3:09:42 PM : Sending data '155656' to field 'By.xpath: //*[text()='Service No.:']/following::input[1]'
+08/26/2019 3:09:42 PM : Waiting for '1' seconds
+08/26/2019 3:09:43 PM : Clicking on element 'By.xpath: //input[@value='Search']'
+08/26/2019 3:09:43 PM : Waiting for '4' seconds
+08/26/2019 3:09:47 PM : Counting the occurence of element 'By.xpath: //*[text()='Quick Search']'
+08/26/2019 3:09:47 PM : Count is : 0
+08/26/2019 3:09:47 PM : Waiting for '2' seconds
+08/26/2019 3:09:50 PM : Waiting for '2' seconds
+08/26/2019 3:09:52 PM : Counting the occurence of element 'By.xpath: //*[text()='Exclude Closed/Ceased Accounts:']'
+08/26/2019 3:09:52 PM : Count is : 0
+08/26/2019 3:09:52 PM : Counting the occurence of element 'By.xpath: //*[text()='Summary']'
+08/26/2019 3:09:52 PM : Count is : 0
+08/26/2019 3:09:52 PM : Clicking on element 'By.xpath: //td[@class='bodyleftcol']/descendant::*[text()='Services']'
+08/26/2019 3:09:54 PM : Waiting for '20' seconds
+08/26/2019 3:10:15 PM : Waiting '5' seconds for 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Products')]]' to appear
+08/26/2019 3:10:20 PM : WARNING : TimeoutException occured
+08/26/2019 3:10:20 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Products')]]'
+08/26/2019 3:10:20 PM : WARNING : WebDriverException occured
+08/26/2019 3:10:20 PM : Waiting for '1' seconds
+08/26/2019 3:10:21 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:10:21 PM : Count is : 0
+08/26/2019 3:10:21 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Products')]]'
+08/26/2019 3:10:21 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 3:10:21 PM : Waiting for '1' seconds
+08/26/2019 3:10:22 PM : Waiting '5' seconds for 'By.xpath: //*[text()='Alter products']' to appear
+08/26/2019 3:10:27 PM : WARNING : TimeoutException occured
+08/26/2019 3:10:27 PM : Clicking on element 'By.xpath: //*[text()='Alter products']'
+08/26/2019 3:10:27 PM : WARNING : WebDriverException occured
+08/26/2019 3:10:27 PM : Waiting for '1' seconds
+08/26/2019 3:10:28 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:10:28 PM : Count is : 0
+08/26/2019 3:10:28 PM : Clicking on element 'By.xpath: //*[text()='Alter products']'
+08/26/2019 3:10:28 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 3:10:28 PM : Waiting for '5' seconds
+08/26/2019 3:10:34 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Department:']//following::select[1]' to appear
+08/26/2019 3:10:34 PM : Full Text : AQSAL - Anderson Sq Sales
+08/26/2019 3:10:34 PM : Selecting value 'AQSAL - Anderson Sq Sales' from 'By.xpath: //*[text()='Department:']//following::select[1]'
+08/26/2019 3:10:34 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Site:']//following::select[@disabled='disabled'][1]' to disappear
+08/26/2019 3:10:35 PM : Full Text : ANSQ-Anderson Square Store
+08/26/2019 3:10:35 PM : Selecting value 'ANSQ-Anderson Square Store' from 'By.xpath: //*[text()='Site:']//following::select[1]'
+08/26/2019 3:10:35 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Application Source:']//following::select[1]' to disappear
+08/26/2019 3:10:40 PM : WARNING : TimeoutException occured
+08/26/2019 3:10:40 PM : Counting the occurence of element 'By.xpath: //*[text()='Application Source:']//following::select[1]'
+08/26/2019 3:10:40 PM : Count is : 1
+08/26/2019 3:10:40 PM : Selecting index '1' from 'By.xpath: //*[text()='Application Source:']//following::select[1]'
+08/26/2019 3:10:40 PM : Waiting for '1' seconds
+08/26/2019 3:10:41 PM : Getting selected value from 'By.xpath: //*[text()='Application Source:']//following::select[1]'
+08/26/2019 3:10:41 PM : Selected value is : 1-CITN TV Commercial
+08/26/2019 3:10:41 PM : Selected value : 1-CITN TV Commercial
+08/26/2019 3:10:41 PM : Clicking on element 'By.xpath: //*[@value="Proceed >>"]'
+08/26/2019 3:10:41 PM : Waiting '4' seconds for 'By.xpath: //*[@id='alterProductsDetailsForm:plantItemList:0:productCode']' to appear
+08/26/2019 3:10:42 PM : Clicking on element 'By.xpath: //*[@id='alterProductsDetailsForm:plantItemList:0:productCode']'
+08/26/2019 3:10:42 PM : Waiting '4' seconds for 'By.xpath: //select[@id = "alterProductsDetailsForm:changedProduct"]' to appear
+08/26/2019 3:10:43 PM : Counting the occurence of element 'By.xpath: //select[@id = "alterProductsDetailsForm:changedProduct"]'
+08/26/2019 3:10:43 PM : Count is : 1
+08/26/2019 3:10:43 PM : Selecting index '1' from 'By.xpath: //select[@id = "alterProductsDetailsForm:changedProduct"]'
+08/26/2019 3:10:43 PM : Waiting for '1' seconds
+08/26/2019 3:10:44 PM : Getting selected value from 'By.xpath: //select[@id = "alterProductsDetailsForm:changedProduct"]'
+08/26/2019 3:10:44 PM : Selected value is : 13643-Broadband Security Suite - Residential
+08/26/2019 3:10:44 PM : Selected value : 13643-Broadband Security Suite - Residential
+08/26/2019 3:10:44 PM : Clicking on element 'By.xpath: //*[@value="Accept"]'
+08/26/2019 3:10:44 PM : Waiting for '2' seconds
+08/26/2019 3:10:46 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:10:47 PM : Count is : 0
+08/26/2019 3:10:47 PM : Waiting '80' seconds for 'By.xpath: //*[text()='Service Order Lines']' to appear
+08/26/2019 3:10:47 PM : Waiting '4' seconds for 'By.xpath: //*[text()[contains(.,'Service Package successfully provisioned')]]' to appear
+08/26/2019 3:10:51 PM : WARNING : TimeoutException occured
+08/26/2019 3:10:51 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:10:51 PM : Count is : 0
+08/26/2019 3:10:51 PM : Getting text from 'By.xpath: //*[text()='Account Number:']//following::span[1]'
+08/26/2019 3:10:51 PM : Text is : 290007070000
+08/26/2019 3:10:51 PM : Getting text from 'By.xpath: //*[text()='Service No:']//following::span[1]'
+08/26/2019 3:10:51 PM : Text is : 155656
+08/26/2019 3:10:51 PM : Getting text from 'By.xpath: //*[text()='Service Order No:']//following::span[1]'
+08/26/2019 3:10:51 PM : Text is : C00125H
+08/26/2019 3:10:51 PM : Counting the occurence of element 'By.xpath: //*[text()='Payment Summary']//following::tbody[2]//descendant::input[@checked='checked']'
+08/26/2019 3:10:51 PM : Count is : 0
+08/26/2019 3:10:51 PM : Counting the occurence of element 'By.xpath: //*[text()='Municipality Code:']//following::select[1]'
+08/26/2019 3:10:51 PM : Count is : 0
+08/26/2019 3:10:51 PM : Counting the occurence of element 'By.xpath: //*[text()='Contact Name:']//following::input[1]'
+08/26/2019 3:10:51 PM : Count is : 1
+08/26/2019 3:10:51 PM : Sending data 'Test Name' to field 'By.xpath: //*[text()='Contact Name:']//following::input[1]'
+08/26/2019 3:10:52 PM : Counting the occurence of element 'By.xpath: //*[text()='Contact No :']//following::input[1]'
+08/26/2019 3:10:52 PM : Count is : 1
+08/26/2019 3:10:52 PM : Sending data '22663' to field 'By.xpath: //*[text()='Contact No :']//following::input[1]'
+08/26/2019 3:10:52 PM : Waiting '4' seconds for 'By.xpath: //input[@value='Submit Order']' to appear
+08/26/2019 3:10:52 PM : Clicking on element 'By.xpath: //input[@value='Submit Order']'
+08/26/2019 3:10:52 PM : Waiting for '4' seconds
+08/26/2019 3:10:56 PM : Counting the occurence of element 'By.xpath: //*[text()='Service order signed off successfully.']'
+08/26/2019 3:10:56 PM : Count is : 0
+08/26/2019 3:10:56 PM : Counting the occurence of element 'By.xpath: //*[text()='Account eBilling Email Address Entry']//following::input[1]'
+08/26/2019 3:10:56 PM : Count is : 0
+08/26/2019 3:10:56 PM : Counting the occurence of element 'By.xpath: //input[@value='Sign Off']'
+08/26/2019 3:10:56 PM : Count is : 0
+08/26/2019 3:10:56 PM : Counting the occurence of element 'By.xpath: //*[@value = 'Accept']'
+08/26/2019 3:10:56 PM : Count is : 0
+08/26/2019 3:10:56 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:10:56 PM : Count is : 1
+08/26/2019 3:10:56 PM : Counting the occurence of element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 3:10:56 PM : Count is : 1
+08/26/2019 3:10:56 PM : Clicking on element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 3:10:56 PM : Waiting '4' seconds for 'By.xpath: (//input[@value='OK'])[last()]' to disappear
+08/26/2019 3:10:57 PM : Waiting for '4' seconds
+08/26/2019 3:11:01 PM : Counting the occurence of element 'By.xpath: //*[text()='Service order signed off successfully.']'
+08/26/2019 3:11:01 PM : Count is : 0
+08/26/2019 3:11:01 PM : Counting the occurence of element 'By.xpath: //*[text()='Account eBilling Email Address Entry']//following::input[1]'
+08/26/2019 3:11:01 PM : Count is : 0
+08/26/2019 3:11:01 PM : Counting the occurence of element 'By.xpath: //input[@value='Sign Off']'
+08/26/2019 3:11:01 PM : Count is : 0
+08/26/2019 3:11:01 PM : Counting the occurence of element 'By.xpath: //*[@value = 'Accept']'
+08/26/2019 3:11:01 PM : Count is : 1
+08/26/2019 3:11:01 PM : Clicking on element 'By.xpath: //*[@value = 'Accept']'
+08/26/2019 3:11:01 PM : Waiting '4' seconds for 'By.xpath: //*[@value = 'Accept']' to disappear
+08/26/2019 3:11:03 PM : Waiting for '2' seconds
+08/26/2019 3:11:05 PM : Waiting for '4' seconds
+08/26/2019 3:11:09 PM : Counting the occurence of element 'By.xpath: //*[text()='Service order signed off successfully.']'
+08/26/2019 3:11:09 PM : Count is : 1
+08/26/2019 3:11:09 PM : Counting the occurence of element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 3:11:09 PM : Count is : 1
+08/26/2019 3:11:09 PM : Clicking on element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 3:11:09 PM : Waiting '4' seconds for 'By.xpath: (//input[@value='OK'])[last()]' to disappear
+08/26/2019 3:11:11 PM : Counting the occurence of element 'By.xpath: //*[text()='Do you wish to allocate MAC Addresses and Smart Card references?']'
+08/26/2019 3:11:11 PM : Count is : 0
+08/26/2019 3:11:11 PM : Waiting '4' seconds for 'By.xpath: (//th[contains(@class,'ui-widget-header')]//child::div//descendant::input)[2]' to appear
+08/26/2019 3:11:11 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[2]//span'
+08/26/2019 3:11:11 PM : Text is : C00125H
+08/26/2019 3:11:12 PM : Waiting '4' seconds for 'By.xpath: (//th[contains(@class,'ui-widget-header')]//child::div//descendant::input)[2]' to appear
+08/26/2019 3:11:12 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[6]//span'
+08/26/2019 3:11:12 PM : Text is : APR
+08/26/2019 3:23:10 PM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/26/2019 3:23:15 PM : Counting the occurence of element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']'
+08/26/2019 3:23:15 PM : Count is : 0
+08/26/2019 3:23:15 PM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/26/2019 3:23:15 PM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/26/2019 3:23:15 PM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/26/2019 3:23:15 PM : Waiting '60' seconds for 'By.xpath: //*[@id='login:loginButtonImg']' to disappear
+08/26/2019 3:23:22 PM : Counting the occurence of element 'By.xpath: //iframe[@id='liberate']'
+08/26/2019 3:23:22 PM : Count is : 0
+08/26/2019 3:23:22 PM : Waiting '60' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']' to appear
+08/26/2019 3:23:22 PM : Scrolling up
+08/26/2019 3:23:22 PM : Waiting for '1' seconds
+08/26/2019 3:23:23 PM : Scrolling up
+08/26/2019 3:23:23 PM : Waiting for '1' seconds
+08/26/2019 3:23:24 PM : Waiting '4' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']' to appear
+08/26/2019 3:23:24 PM : Clicking on element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']'
+08/26/2019 3:23:26 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Service No.:']/following::input[1]' to appear
+08/26/2019 3:23:26 PM : Sending data '78902533' to field 'By.xpath: //*[text()='Service No.:']/following::input[1]'
+08/26/2019 3:23:26 PM : Waiting for '1' seconds
+08/26/2019 3:23:27 PM : Clicking on element 'By.xpath: //input[@value='Search']'
+08/26/2019 3:23:27 PM : Waiting for '4' seconds
+08/26/2019 3:23:31 PM : Counting the occurence of element 'By.xpath: //*[text()='Quick Search']'
+08/26/2019 3:23:32 PM : Count is : 0
+08/26/2019 3:23:32 PM : Waiting for '2' seconds
+08/26/2019 3:23:34 PM : Waiting for '2' seconds
+08/26/2019 3:23:36 PM : Counting the occurence of element 'By.xpath: //*[text()='Exclude Closed/Ceased Accounts:']'
+08/26/2019 3:23:36 PM : Count is : 0
+08/26/2019 3:23:36 PM : Counting the occurence of element 'By.xpath: //*[text()='Summary']'
+08/26/2019 3:23:36 PM : Count is : 0
+08/26/2019 3:23:36 PM : Clicking on element 'By.xpath: //td[@class='bodyleftcol']/descendant::*[text()='Services']'
+08/26/2019 3:23:41 PM : Waiting for '20' seconds
+08/26/2019 3:24:02 PM : Waiting '5' seconds for 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Change')]]' to appear
+08/26/2019 3:24:02 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Change')]]'
+08/26/2019 3:24:02 PM : Waiting for '1' seconds
+08/26/2019 3:24:03 PM : Waiting '5' seconds for 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')]/preceding::span[contains(@class,'actionButton')][text()[contains(.,'Change SIM Card')]]' to appear
+08/26/2019 3:24:03 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')]/preceding::span[contains(@class,'actionButton')][text()[contains(.,'Change SIM Card')]]'
+08/26/2019 3:24:03 PM : Waiting for '5' seconds
+08/26/2019 3:24:09 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Department:']//following::select[1]' to appear
+08/26/2019 3:24:09 PM : Full Text : AQSAL - Anderson Sq Sales
+08/26/2019 3:24:09 PM : Selecting value 'AQSAL - Anderson Sq Sales' from 'By.xpath: //*[text()='Department:']//following::select[1]'
+08/26/2019 3:24:09 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Site:']//following::select[@disabled='disabled'][1]' to disappear
+08/26/2019 3:24:10 PM : Full Text : ANSQ-Anderson Square Store
+08/26/2019 3:24:10 PM : Selecting value 'ANSQ-Anderson Square Store' from 'By.xpath: //*[text()='Site:']//following::select[1]'
+08/26/2019 3:24:10 PM : Counting the occurence of element 'By.xpath: //*[text() = 'Application Source:']//following::select[1]'
+08/26/2019 3:24:10 PM : Count is : 1
+08/26/2019 3:24:10 PM : Selecting index '1' from 'By.xpath: //*[text() = 'Application Source:']//following::select[1]'
+08/26/2019 3:24:10 PM : Waiting for '1' seconds
+08/26/2019 3:24:11 PM : Getting selected value from 'By.xpath: //*[text() = 'Application Source:']//following::select[1]'
+08/26/2019 3:24:11 PM : Selected value is : 1-CITN TV Commercial
+08/26/2019 3:24:11 PM : Selected value : 1-CITN TV Commercial
+08/26/2019 3:24:11 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Retired Reason:']//following::select[1]' to appear
+08/26/2019 3:24:11 PM : Counting the occurence of element 'By.xpath: //*[text()='Retired Reason:']//following::select[1]'
+08/26/2019 3:24:11 PM : Count is : 1
+08/26/2019 3:24:11 PM : Selecting index '1' from 'By.xpath: //*[text()='Retired Reason:']//following::select[1]'
+08/26/2019 3:24:12 PM : Waiting for '1' seconds
+08/26/2019 3:24:13 PM : Getting selected value from 'By.xpath: //*[text()='Retired Reason:']//following::select[1]'
+08/26/2019 3:24:13 PM : Selected value is : CU-Customer Request
+08/26/2019 3:24:13 PM : Selected value : CU-Customer Request
+08/26/2019 3:24:13 PM : Waiting for '1' seconds
+08/26/2019 3:24:14 PM : Counting the occurence of element 'By.xpath: //input[@value='Look Up']'
+08/26/2019 3:24:14 PM : Count is : 1
+08/26/2019 3:24:14 PM : Clicking on element 'By.xpath: //input[@value='Look Up']'
+08/26/2019 3:24:14 PM : Waiting '4' seconds for 'By.xpath: //*[text()[contains(.,'More Numbers exist matching the details entered')]]' to appear
+08/26/2019 3:24:16 PM : Clicking on element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:24:16 PM : Waiting '4' seconds for 'By.xpath: //*[text()[contains(.,'More Numbers exist matching the details entered')]]' to disappear
+08/26/2019 3:24:16 PM : Waiting for '1' seconds
+08/26/2019 3:24:17 PM : Counting the occurence of element 'By.xpath: (//*[text()='SIM:']//following::select)[2]'
+08/26/2019 3:24:17 PM : Count is : 1
+08/26/2019 3:24:17 PM : Selecting index '8' from 'By.xpath: (//*[text()='SIM:']//following::select)[2]'
+08/26/2019 3:24:18 PM : Waiting for '1' seconds
+08/26/2019 3:24:19 PM : Getting selected value from 'By.xpath: (//*[text()='SIM:']//following::select)[2]'
+08/26/2019 3:24:19 PM : Selected value is : 03010008423
+08/26/2019 3:24:19 PM : Selected value : 03010008423
+08/26/2019 3:24:19 PM : Waiting for '2' seconds
+08/26/2019 3:24:21 PM : Counting the occurence of element 'By.xpath: //input[@value='Yes']'
+08/26/2019 3:24:21 PM : Count is : 1
+08/26/2019 3:24:21 PM : Clicking on element 'By.xpath: //input[@value='Yes']'
+08/26/2019 3:24:21 PM : Waiting '4' seconds for 'By.xpath: //input[@value='Yes']' to disappear
+08/26/2019 3:24:22 PM : Counting the occurence of element 'By.xpath: //*[text()='Perform Sales Sign Off:']//following::input[@checked='checked']'
+08/26/2019 3:24:22 PM : Count is : 1
+08/26/2019 3:24:22 PM : Clicking on element 'By.xpath: //*[text()='Perform Sales Sign Off:']//following::input[@checked='checked']'
+08/26/2019 3:24:22 PM : Clicking on element 'By.xpath: //*[@value = 'Accept']'
+08/26/2019 3:24:22 PM : Waiting '2' seconds for 'By.xpath: //input[@value='OK']' to appear
+08/26/2019 3:24:24 PM : Clicking on element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:24:28 PM : Waiting for '2' seconds
+08/26/2019 3:24:30 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:24:30 PM : Count is : 0
+08/26/2019 3:24:30 PM : Waiting '80' seconds for 'By.xpath: //*[text()='Service Order Lines']' to appear
+08/26/2019 3:24:30 PM : Waiting '4' seconds for 'By.xpath: //*[text()[contains(.,'Service Package successfully provisioned')]]' to appear
+08/26/2019 3:24:34 PM : WARNING : TimeoutException occured
+08/26/2019 3:24:34 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:24:34 PM : Count is : 0
+08/26/2019 3:24:34 PM : Getting text from 'By.xpath: //*[text()='Account Number:']//following::span[1]'
+08/26/2019 3:24:34 PM : Text is : 290006960000
+08/26/2019 3:24:34 PM : Getting text from 'By.xpath: //*[text()='Service No:']//following::span[1]'
+08/26/2019 3:24:34 PM : Text is : 78902533
+08/26/2019 3:24:34 PM : Getting text from 'By.xpath: //*[text()='Service Order No:']//following::span[1]'
+08/26/2019 3:24:34 PM : Text is : C00126H
+08/26/2019 3:24:34 PM : Counting the occurence of element 'By.xpath: //*[text()='Payment Summary']//following::tbody[2]//descendant::input[@checked='checked']'
+08/26/2019 3:24:34 PM : Count is : 0
+08/26/2019 3:24:34 PM : Counting the occurence of element 'By.xpath: //*[text()='Municipality Code:']//following::select[1]'
+08/26/2019 3:24:34 PM : Count is : 0
+08/26/2019 3:24:34 PM : Counting the occurence of element 'By.xpath: //*[text()='Contact Name:']//following::input[1]'
+08/26/2019 3:24:34 PM : Count is : 1
+08/26/2019 3:24:34 PM : Sending data 'Test Name' to field 'By.xpath: //*[text()='Contact Name:']//following::input[1]'
+08/26/2019 3:24:35 PM : Counting the occurence of element 'By.xpath: //*[text()='Contact No :']//following::input[1]'
+08/26/2019 3:24:35 PM : Count is : 1
+08/26/2019 3:24:35 PM : Sending data '22663' to field 'By.xpath: //*[text()='Contact No :']//following::input[1]'
+08/26/2019 3:24:35 PM : Waiting '4' seconds for 'By.xpath: //input[@value='Submit Order']' to appear
+08/26/2019 3:24:35 PM : Clicking on element 'By.xpath: //input[@value='Submit Order']'
+08/26/2019 3:24:35 PM : Waiting for '4' seconds
+08/26/2019 3:24:39 PM : Counting the occurence of element 'By.xpath: //*[text()='Service order signed off successfully.']'
+08/26/2019 3:24:39 PM : Count is : 1
+08/26/2019 3:24:39 PM : Counting the occurence of element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 3:24:39 PM : Count is : 1
+08/26/2019 3:24:39 PM : Clicking on element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 3:24:39 PM : Waiting '4' seconds for 'By.xpath: (//input[@value='OK'])[last()]' to disappear
+08/26/2019 3:24:43 PM : WARNING : TimeoutException occured
+08/26/2019 3:24:43 PM : Counting the occurence of element 'By.xpath: //*[text()='Do you wish to allocate MAC Addresses and Smart Card references?']'
+08/26/2019 3:24:43 PM : Count is : 0
+08/26/2019 3:24:44 PM : Waiting '4' seconds for 'By.xpath: (//th[contains(@class,'ui-widget-header')]//child::div//descendant::input)[2]' to appear
+08/26/2019 3:24:44 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[2]//span'
+08/26/2019 3:24:44 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 3:24:44 PM : Waiting '4' seconds for 'By.xpath: (//th[contains(@class,'ui-widget-header')]//child::div//descendant::input)[2]' to appear
+08/26/2019 3:24:44 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[6]//span'
+08/26/2019 3:24:44 PM : WARNING : WebDriverException occured
+08/26/2019 3:24:44 PM : Waiting for '1' seconds
+08/26/2019 3:24:45 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 3:24:45 PM : Count is : 1
+08/26/2019 3:24:45 PM : Clicking on element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 3:24:45 PM : Waiting '2' seconds for 'By.xpath: //input[@value='OK']' to disappear
+08/26/2019 3:24:47 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[6]//span'
+08/26/2019 3:24:47 PM : Text is : ASC
+08/26/2019 5:07:11 PM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/26/2019 5:07:15 PM : Counting the occurence of element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']'
+08/26/2019 5:07:15 PM : Count is : 0
+08/26/2019 5:07:15 PM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/26/2019 5:07:15 PM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/26/2019 5:07:15 PM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/26/2019 5:07:15 PM : Waiting '60' seconds for 'By.xpath: //*[@id='login:loginButtonImg']' to disappear
+08/26/2019 5:07:27 PM : Counting the occurence of element 'By.xpath: //iframe[@id='liberate']'
+08/26/2019 5:07:27 PM : Count is : 0
+08/26/2019 5:07:27 PM : Waiting '60' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']' to appear
+08/26/2019 5:07:27 PM : Scrolling up
+08/26/2019 5:07:27 PM : Waiting for '1' seconds
+08/26/2019 5:07:28 PM : Scrolling up
+08/26/2019 5:07:28 PM : Waiting for '1' seconds
+08/26/2019 5:07:29 PM : Waiting '4' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']' to appear
+08/26/2019 5:07:29 PM : Clicking on element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']'
+08/26/2019 5:07:33 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Service No.:']/following::input[1]' to appear
+08/26/2019 5:07:33 PM : Sending data '78902532' to field 'By.xpath: //*[text()='Service No.:']/following::input[1]'
+08/26/2019 5:07:33 PM : Waiting for '1' seconds
+08/26/2019 5:07:34 PM : Clicking on element 'By.xpath: //input[@value='Search']'
+08/26/2019 5:07:35 PM : Waiting for '4' seconds
+08/26/2019 5:07:39 PM : Counting the occurence of element 'By.xpath: //*[text()='Quick Search']'
+08/26/2019 5:07:39 PM : Count is : 0
+08/26/2019 5:07:39 PM : Waiting for '2' seconds
+08/26/2019 5:07:41 PM : Waiting for '2' seconds
+08/26/2019 5:07:43 PM : Counting the occurence of element 'By.xpath: //*[text()='Exclude Closed/Ceased Accounts:']'
+08/26/2019 5:07:43 PM : Count is : 0
+08/26/2019 5:07:43 PM : Counting the occurence of element 'By.xpath: //*[text()='Summary']'
+08/26/2019 5:07:43 PM : Count is : 0
+08/26/2019 5:07:43 PM : Clicking on element 'By.xpath: //td[@class='bodyleftcol']/descendant::*[text()='Services']'
+08/26/2019 5:07:46 PM : Waiting for '20' seconds
+08/26/2019 5:08:07 PM : Waiting '6' seconds for 'By.xpath: //a[@class='icePnlTbLblLnk']//descendant::td[text()[contains(.,'Products')]]' to appear
+08/26/2019 5:08:07 PM : Waiting for '1' seconds
+08/26/2019 5:08:08 PM : Clicking on element 'By.xpath: //a[@class='icePnlTbLblLnk']//descendant::td[text()[contains(.,'Products')]]'
+08/26/2019 5:08:08 PM : Waiting '6' seconds for 'By.xpath: //div[@id='customerServicesForm:serviceEnquiryTabs:0:productsTab:custServProductsResultTable']/div[2]/table/tbody/tr' to appear
+08/26/2019 5:08:08 PM : Counting the occurence of element 'By.xpath: //div[@id='customerServicesForm:serviceEnquiryTabs:0:productsTab:custServProductsResultTable']/div[2]/table/tbody/tr'
+08/26/2019 5:08:08 PM : Count is : 2
+08/26/2019 5:08:08 PM : Waiting for '1' seconds
+08/26/2019 5:08:09 PM : Clicking on element 'By.xpath: //div[@id='customerServicesForm:serviceEnquiryTabs:0:productsTab:custServProductsResultTable']/div[2]/table/tbody/tr[1]'
+08/26/2019 5:08:09 PM : Waiting for '2' seconds
+08/26/2019 5:08:11 PM : Counting the occurence of element 'By.xpath: //span[text()='Amend Product & ISP Fields']'
+08/26/2019 5:08:13 PM : Count is : 1
+08/26/2019 5:08:13 PM : Waiting for '1' seconds
+08/26/2019 5:08:14 PM : Clicking on element 'By.xpath: //span[text()='Amend Product & ISP Fields']'
+08/26/2019 5:08:14 PM : Waiting '4' seconds for 'By.xpath: //input[@id='amendProductsForm:userNameId']' to appear
+08/26/2019 5:08:18 PM : WARNING : TimeoutException occured
+08/26/2019 5:08:18 PM : Sending data 'Deepak' to field 'By.xpath: //input[@id='amendProductsForm:userNameId']'
+08/26/2019 5:08:18 PM : WARNING : WebDriverException occured
+08/26/2019 5:08:18 PM : Waiting for '1' seconds
+08/26/2019 5:08:19 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:08:19 PM : Count is : 0
+08/26/2019 5:08:19 PM : Sending data 'Deepak' to field 'By.xpath: //input[@id='amendProductsForm:userNameId']'
+08/26/2019 5:08:19 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:08:19 PM : Waiting '4' seconds for 'By.xpath: //*[@value='Generate Password']' to appear
+08/26/2019 5:08:24 PM : WARNING : TimeoutException occured
+08/26/2019 5:08:24 PM : Clicking on element 'By.xpath: //*[@value='Generate Password']'
+08/26/2019 5:08:24 PM : WARNING : WebDriverException occured
+08/26/2019 5:08:24 PM : Waiting for '1' seconds
+08/26/2019 5:08:25 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:08:25 PM : Count is : 0
+08/26/2019 5:08:25 PM : Clicking on element 'By.xpath: //*[@value='Generate Password']'
+08/26/2019 5:08:25 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:08:25 PM : Sending data '19' to field 'By.xpath: //*[text() = 'Reward Points Added']//following::input[1]'
+08/26/2019 5:08:25 PM : WARNING : WebDriverException occured
+08/26/2019 5:08:25 PM : Waiting for '1' seconds
+08/26/2019 5:08:26 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:08:26 PM : Count is : 0
+08/26/2019 5:08:26 PM : Sending data '19' to field 'By.xpath: //*[text() = 'Reward Points Added']//following::input[1]'
+08/26/2019 5:08:26 PM : WARNING : WebDriverException occured
+08/26/2019 5:08:26 PM : Waiting for '1' seconds
+08/26/2019 5:08:27 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:08:27 PM : Count is : 0
+08/26/2019 5:08:27 PM : Sending data '19' to field 'By.xpath: //*[text() = 'Reward Points Added']//following::input[1]'
+08/26/2019 5:08:27 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:08:27 PM : Waiting '4' seconds for 'By.xpath: //*[@value='Generate Password']/following::input[@value='Accept']' to appear
+08/26/2019 5:08:32 PM : WARNING : TimeoutException occured
+08/26/2019 5:08:32 PM : Clicking on element 'By.xpath: //*[@value='Generate Password']/following::input[@value='Accept']'
+08/26/2019 5:08:32 PM : WARNING : WebDriverException occured
+08/26/2019 5:08:32 PM : Waiting for '1' seconds
+08/26/2019 5:08:33 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:08:33 PM : Count is : 0
+08/26/2019 5:08:33 PM : Clicking on element 'By.xpath: //*[@value='Generate Password']/following::input[@value='Accept']'
+08/26/2019 5:08:33 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:08:33 PM : Clicking on element 'By.xpath: //*[@value = 'Accept']'
+08/26/2019 5:08:33 PM : Scrolling down
+08/26/2019 5:08:33 PM : Waiting '4' seconds for 'By.xpath: //table[@id='customerServicesForm:serviceEnquiryTabs']/tbody/tr[2]/td/div/table/tbody/tr[7]/td[2]/div/table/tbody/tr/td/table/tbody/tr[1]/td[2]/span[@class='iceOutTxt']' to appear
+08/26/2019 5:08:38 PM : WARNING : TimeoutException occured
+08/26/2019 5:30:44 PM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/26/2019 5:30:48 PM : Counting the occurence of element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']'
+08/26/2019 5:30:48 PM : Count is : 0
+08/26/2019 5:30:48 PM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/26/2019 5:30:48 PM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/26/2019 5:30:48 PM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/26/2019 5:30:48 PM : Waiting '60' seconds for 'By.xpath: //*[@id='login:loginButtonImg']' to disappear
+08/26/2019 5:30:58 PM : Counting the occurence of element 'By.xpath: //iframe[@id='liberate']'
+08/26/2019 5:30:58 PM : Count is : 0
+08/26/2019 5:30:58 PM : Waiting '60' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']' to appear
+08/26/2019 5:30:58 PM : Scrolling up
+08/26/2019 5:30:58 PM : Waiting for '1' seconds
+08/26/2019 5:30:59 PM : Scrolling up
+08/26/2019 5:30:59 PM : Waiting for '1' seconds
+08/26/2019 5:31:00 PM : Waiting '4' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']' to appear
+08/26/2019 5:31:00 PM : Clicking on element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']'
+08/26/2019 5:31:03 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Account No.:']/following::input[1]' to appear
+08/26/2019 5:31:03 PM : Sending data '290007080000' to field 'By.xpath: //*[text()='Account No.:']/following::input[1]'
+08/26/2019 5:31:03 PM : Waiting for '1' seconds
+08/26/2019 5:31:04 PM : Clicking on element 'By.xpath: //input[@value='Search']'
+08/26/2019 5:31:07 PM : Waiting for '2' seconds
+08/26/2019 5:31:09 PM : Counting the occurence of element 'By.xpath: //*[text()='Exclude Closed/Ceased Accounts:']'
+08/26/2019 5:31:09 PM : Count is : 0
+08/26/2019 5:31:09 PM : Counting the occurence of element 'By.xpath: //*[text()='Summary']'
+08/26/2019 5:31:09 PM : Count is : 0
+08/26/2019 5:31:09 PM : Clicking on element 'By.xpath: //td[@class='bodyleftcol']/descendant::*[text()='Services']'
+08/26/2019 5:31:12 PM : Waiting for '20' seconds
+08/26/2019 5:31:33 PM : Waiting '5' seconds for 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Cease')]]' to appear
+08/26/2019 5:31:38 PM : WARNING : TimeoutException occured
+08/26/2019 5:31:38 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Cease')]]'
+08/26/2019 5:31:38 PM : WARNING : WebDriverException occured
+08/26/2019 5:31:38 PM : Waiting for '1' seconds
+08/26/2019 5:31:39 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:31:39 PM : Count is : 0
+08/26/2019 5:31:39 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Cease')]]'
+08/26/2019 5:31:39 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:31:39 PM : Waiting for '1' seconds
+08/26/2019 5:31:40 PM : Waiting '5' seconds for 'By.xpath: //*[text()='Cease Multiple Services']' to appear
+08/26/2019 5:31:45 PM : WARNING : TimeoutException occured
+08/26/2019 5:31:45 PM : Clicking on element 'By.xpath: //*[text()='Cease Multiple Services']'
+08/26/2019 5:31:45 PM : WARNING : WebDriverException occured
+08/26/2019 5:31:45 PM : Waiting for '1' seconds
+08/26/2019 5:31:46 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:31:46 PM : Count is : 0
+08/26/2019 5:31:46 PM : Clicking on element 'By.xpath: //*[text()='Cease Multiple Services']'
+08/26/2019 5:31:46 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:31:46 PM : Waiting for '1' seconds
+08/26/2019 5:31:48 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Department:']//following::select[1]' to appear
+08/26/2019 5:31:48 PM : Full Text : AQSAL - Anderson Sq Sales
+08/26/2019 5:31:48 PM : Selecting value 'AQSAL - Anderson Sq Sales' from 'By.xpath: //*[text()='Department:']//following::select[1]'
+08/26/2019 5:31:48 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Site:']//following::select[@disabled='disabled'][1]' to disappear
+08/26/2019 5:31:50 PM : Full Text : ANSQ-Anderson Square Store
+08/26/2019 5:31:50 PM : Selecting value 'ANSQ-Anderson Square Store' from 'By.xpath: //*[text()='Site:']//following::select[1]'
+08/26/2019 5:31:50 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:salesPersonSearch']'
+08/26/2019 5:31:50 PM : Count is : 0
+08/26/2019 5:31:50 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:searchMagnifier']'
+08/26/2019 5:31:50 PM : Count is : 0
+08/26/2019 5:31:50 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:salesPerson']'
+08/26/2019 5:31:50 PM : Count is : 0
+08/26/2019 5:31:50 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 5:31:50 PM : Count is : 0
+08/26/2019 5:31:50 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 5:31:50 PM : Count is : 0
+08/26/2019 5:31:50 PM : ERROR : Element located by 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']' is not available.
+08/26/2019 5:31:50 PM : Counting the occurence of element 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:salesPersonSearch']'
+08/26/2019 5:31:50 PM : Count is : 1
+08/26/2019 5:31:50 PM : Waiting '4' seconds for 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:salesPersonSearch']' to appear
+08/26/2019 5:31:50 PM : Sending data '99999' to field 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:salesPersonSearch']'
+08/26/2019 5:31:50 PM : Counting the occurence of element 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:searchMagnifier']'
+08/26/2019 5:31:50 PM : Count is : 1
+08/26/2019 5:31:50 PM : Waiting for '1' seconds
+08/26/2019 5:31:51 PM : Waiting '4' seconds for 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:searchMagnifier']' to appear
+08/26/2019 5:31:51 PM : Clicking on element 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:searchMagnifier']'
+08/26/2019 5:31:51 PM : Counting the occurence of element 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:salesPerson']'
+08/26/2019 5:31:51 PM : Count is : 1
+08/26/2019 5:31:51 PM : Waiting '4' seconds for 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:salesPerson']' to appear
+08/26/2019 5:31:51 PM : Counting the occurence of element 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:salesPerson']'
+08/26/2019 5:31:51 PM : Count is : 1
+08/26/2019 5:31:51 PM : Selecting index '1' from 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:salesPerson']'
+08/26/2019 5:31:51 PM : Waiting for '1' seconds
+08/26/2019 5:31:52 PM : Getting selected value from 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:salesPerson']'
+08/26/2019 5:31:53 PM : Selected value is : 99999-RHQ DEVELOP
+08/26/2019 5:31:53 PM : Selected value : 99999-RHQ DEVELOP
+08/26/2019 5:31:53 PM : Counting the occurence of element 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:fixedApplicationSource']'
+08/26/2019 5:31:53 PM : Count is : 1
+08/26/2019 5:31:53 PM : Waiting '4' seconds for 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:fixedApplicationSource']' to appear
+08/26/2019 5:31:53 PM : Counting the occurence of element 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:fixedApplicationSource']'
+08/26/2019 5:31:53 PM : Count is : 1
+08/26/2019 5:31:53 PM : Selecting index '2' from 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:fixedApplicationSource']'
+08/26/2019 5:31:53 PM : Waiting for '1' seconds
+08/26/2019 5:31:54 PM : Getting selected value from 'By.xpath: //*[@id='ceaseMultipleServiceOrderForm:fixedApplicationSource']'
+08/26/2019 5:31:54 PM : Selected value is : 2-CITN News Story
+08/26/2019 5:31:54 PM : Selected value : 2-CITN News Story
+08/26/2019 5:31:54 PM : Waiting '4' seconds for 'By.xpath: //input[@value='Proceed >>']' to appear
+08/26/2019 5:31:54 PM : Clicking on element 'By.xpath: //input[@value='Proceed >>']'
+08/26/2019 5:31:55 PM : Waiting '4' seconds for 'By.xpath: //*[@type='submit' and @value='Search']' to appear
+08/26/2019 5:31:59 PM : WARNING : TimeoutException occured
+08/26/2019 5:31:59 PM : Clicking on element 'By.xpath: //*[@type='submit' and @value='Search']'
+08/26/2019 5:31:59 PM : WARNING : WebDriverException occured
+08/26/2019 5:31:59 PM : Waiting for '1' seconds
+08/26/2019 5:32:00 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:32:00 PM : Count is : 0
+08/26/2019 5:32:00 PM : Clicking on element 'By.xpath: //*[@type='submit' and @value='Search']'
+08/26/2019 5:32:00 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:32:00 PM : Counting the occurence of element 'By.xpath: //*[@type='radio' and @value='Release']'
+08/26/2019 5:32:00 PM : Count is : 0
+08/26/2019 5:32:00 PM : Clicking on element 'By.xpath: //*[text() = 'Line Plant:']//following::input[1]'
+08/26/2019 5:32:00 PM : WARNING : WebDriverException occured
+08/26/2019 5:32:00 PM : Waiting for '1' seconds
+08/26/2019 5:32:01 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:32:01 PM : Count is : 0
+08/26/2019 5:32:01 PM : Clicking on element 'By.xpath: //*[text() = 'Line Plant:']//following::input[1]'
+08/26/2019 5:32:01 PM : WARNING : WebDriverException occured
+08/26/2019 5:32:01 PM : Waiting for '1' seconds
+08/26/2019 5:32:02 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:32:02 PM : Count is : 0
+08/26/2019 5:32:02 PM : Clicking on element 'By.xpath: //*[text() = 'Line Plant:']//following::input[1]'
+08/26/2019 5:32:02 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:32:02 PM : Waiting '4' seconds for 'By.xpath: //*[@type='submit' and @value='Accept']' to appear
+08/26/2019 5:32:06 PM : WARNING : TimeoutException occured
+08/26/2019 5:32:06 PM : Clicking on element 'By.xpath: //*[@type='submit' and @value='Accept']'
+08/26/2019 5:32:06 PM : WARNING : WebDriverException occured
+08/26/2019 5:32:06 PM : Waiting for '1' seconds
+08/26/2019 5:32:07 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:32:07 PM : Count is : 0
+08/26/2019 5:32:07 PM : Clicking on element 'By.xpath: //*[@type='submit' and @value='Accept']'
+08/26/2019 5:32:07 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:32:08 PM : Waiting for '2' seconds
+08/26/2019 5:32:10 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:32:10 PM : Count is : 0
+08/26/2019 5:32:10 PM : Waiting '80' seconds for 'By.xpath: //*[text()='Service Order Lines']' to appear
+08/26/2019 5:33:03 PM : Waiting '4' seconds for 'By.xpath: //*[text()[contains(.,'Service Package successfully provisioned')]]' to appear
+08/26/2019 5:33:07 PM : WARNING : TimeoutException occured
+08/26/2019 5:33:07 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:33:07 PM : Count is : 0
+08/26/2019 5:33:07 PM : Getting text from 'By.xpath: //*[text()='Account Number:']//following::span[1]'
+08/26/2019 5:33:07 PM : Text is : 290007080000
+08/26/2019 5:33:07 PM : Getting text from 'By.xpath: //*[text()='Service No:']//following::span[1]'
+08/26/2019 5:33:07 PM : Text is : 155658
+08/26/2019 5:33:07 PM : Getting text from 'By.xpath: //*[text()='Service Order No:']//following::span[1]'
+08/26/2019 5:33:07 PM : Text is : C00129H
+08/26/2019 5:33:08 PM : Counting the occurence of element 'By.xpath: //*[text()='Payment Summary']//following::tbody[2]//descendant::input[@checked='checked']'
+08/26/2019 5:33:08 PM : Count is : 0
+08/26/2019 5:33:08 PM : Counting the occurence of element 'By.xpath: //*[text()='Municipality Code:']//following::select[1]'
+08/26/2019 5:33:08 PM : Count is : 0
+08/26/2019 5:33:08 PM : Counting the occurence of element 'By.xpath: //*[text()='Contact Name:']//following::input[1]'
+08/26/2019 5:33:08 PM : Count is : 1
+08/26/2019 5:33:08 PM : Sending data 'Test Name' to field 'By.xpath: //*[text()='Contact Name:']//following::input[1]'
+08/26/2019 5:33:08 PM : Counting the occurence of element 'By.xpath: //*[text()='Contact No :']//following::input[1]'
+08/26/2019 5:33:08 PM : Count is : 1
+08/26/2019 5:33:08 PM : Sending data '22663' to field 'By.xpath: //*[text()='Contact No :']//following::input[1]'
+08/26/2019 5:33:08 PM : Waiting '4' seconds for 'By.xpath: //input[@value='Submit Order']' to appear
+08/26/2019 5:33:08 PM : Clicking on element 'By.xpath: //input[@value='Submit Order']'
+08/26/2019 5:33:08 PM : Waiting for '4' seconds
+08/26/2019 5:33:12 PM : Counting the occurence of element 'By.xpath: //*[text()='Service order signed off successfully.']'
+08/26/2019 5:33:12 PM : Count is : 1
+08/26/2019 5:33:12 PM : Counting the occurence of element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 5:33:12 PM : Count is : 1
+08/26/2019 5:33:12 PM : Clicking on element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 5:33:12 PM : Waiting '4' seconds for 'By.xpath: (//input[@value='OK'])[last()]' to disappear
+08/26/2019 5:33:17 PM : WARNING : TimeoutException occured
+08/26/2019 5:33:17 PM : Counting the occurence of element 'By.xpath: //*[text()='Do you wish to allocate MAC Addresses and Smart Card references?']'
+08/26/2019 5:33:17 PM : Count is : 0
+08/26/2019 5:33:17 PM : Waiting '4' seconds for 'By.xpath: (//th[contains(@class,'ui-widget-header')]//child::div//descendant::input)[2]' to appear
+08/26/2019 5:33:17 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[2]//span'
+08/26/2019 5:33:17 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:33:17 PM : Waiting '4' seconds for 'By.xpath: (//th[contains(@class,'ui-widget-header')]//child::div//descendant::input)[2]' to appear
+08/26/2019 5:33:17 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[6]//span'
+08/26/2019 5:33:17 PM : WARNING : WebDriverException occured
+08/26/2019 5:33:17 PM : Waiting for '1' seconds
+08/26/2019 5:33:18 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:33:18 PM : Count is : 1
+08/26/2019 5:33:18 PM : Clicking on element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 5:33:19 PM : Waiting '2' seconds for 'By.xpath: //input[@value='OK']' to disappear
+08/26/2019 5:33:20 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[6]//span'
+08/26/2019 5:33:20 PM : Text is : CEL CCL
+08/26/2019 5:34:19 PM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/26/2019 5:34:23 PM : Counting the occurence of element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']'
+08/26/2019 5:34:23 PM : Count is : 0
+08/26/2019 5:34:23 PM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/26/2019 5:34:23 PM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/26/2019 5:34:23 PM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/26/2019 5:34:23 PM : Waiting '60' seconds for 'By.xpath: //*[@id='login:loginButtonImg']' to disappear
+08/26/2019 5:34:33 PM : Counting the occurence of element 'By.xpath: //iframe[@id='liberate']'
+08/26/2019 5:34:33 PM : Count is : 0
+08/26/2019 5:34:33 PM : Waiting '60' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']' to appear
+08/26/2019 5:34:34 PM : Scrolling up
+08/26/2019 5:34:34 PM : Waiting for '1' seconds
+08/26/2019 5:34:35 PM : Scrolling up
+08/26/2019 5:34:35 PM : Waiting for '1' seconds
+08/26/2019 5:34:36 PM : Waiting '4' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']' to appear
+08/26/2019 5:34:36 PM : Clicking on element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']'
+08/26/2019 5:34:39 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Service No.:']/following::input[1]' to appear
+08/26/2019 5:34:39 PM : Sending data '78902506' to field 'By.xpath: //*[text()='Service No.:']/following::input[1]'
+08/26/2019 5:34:39 PM : Waiting for '1' seconds
+08/26/2019 5:34:40 PM : Clicking on element 'By.xpath: //input[@value='Search']'
+08/26/2019 5:34:40 PM : Waiting for '4' seconds
+08/26/2019 5:34:44 PM : Counting the occurence of element 'By.xpath: //*[text()='Quick Search']'
+08/26/2019 5:34:44 PM : Count is : 0
+08/26/2019 5:34:44 PM : Waiting for '2' seconds
+08/26/2019 5:34:46 PM : Waiting for '2' seconds
+08/26/2019 5:34:48 PM : Counting the occurence of element 'By.xpath: //*[text()='Exclude Closed/Ceased Accounts:']'
+08/26/2019 5:34:48 PM : Count is : 0
+08/26/2019 5:34:48 PM : Counting the occurence of element 'By.xpath: //*[text()='Summary']'
+08/26/2019 5:34:48 PM : Count is : 0
+08/26/2019 5:34:48 PM : Clicking on element 'By.xpath: //td[@class='bodyleftcol']/descendant::*[text()='Services']'
+08/26/2019 5:34:52 PM : Waiting for '20' seconds
+08/26/2019 5:35:12 PM : Waiting '5' seconds for 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Copy/Move')]]' to appear
+08/26/2019 5:35:12 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Copy/Move')]]'
+08/26/2019 5:35:12 PM : Waiting for '1' seconds
+08/26/2019 5:35:13 PM : Waiting '5' seconds for 'By.xpath: //*[text()='Clone Service']' to appear
+08/26/2019 5:35:17 PM : Clicking on element 'By.xpath: //*[text()='Clone Service']'
+08/26/2019 5:35:17 PM : Waiting for '1' seconds
+08/26/2019 5:35:20 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Department:']//following::select[1]' to appear
+08/26/2019 5:35:20 PM : Full Text : AQSAL - Anderson Sq Sales
+08/26/2019 5:35:20 PM : Selecting value 'AQSAL - Anderson Sq Sales' from 'By.xpath: //*[text()='Department:']//following::select[1]'
+08/26/2019 5:35:20 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Site:']//following::select[@disabled='disabled'][1]' to disappear
+08/26/2019 5:35:21 PM : Full Text : ANSQ-Anderson Square Store
+08/26/2019 5:35:21 PM : Selecting value 'ANSQ-Anderson Square Store' from 'By.xpath: //*[text()='Site:']//following::select[1]'
+08/26/2019 5:35:21 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:salesPersonSearch']'
+08/26/2019 5:35:21 PM : Count is : 1
+08/26/2019 5:35:21 PM : Waiting '4' seconds for 'By.xpath: //*[@id='sopackageSelection:salesPersonSearch']' to appear
+08/26/2019 5:35:21 PM : Sending data '99999' to field 'By.xpath: //*[@id='sopackageSelection:salesPersonSearch']'
+08/26/2019 5:35:21 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:searchMagnifier']'
+08/26/2019 5:35:21 PM : Count is : 1
+08/26/2019 5:35:21 PM : Waiting for '1' seconds
+08/26/2019 5:35:22 PM : Waiting '4' seconds for 'By.xpath: //*[@id='sopackageSelection:searchMagnifier']' to appear
+08/26/2019 5:35:26 PM : WARNING : TimeoutException occured
+08/26/2019 5:35:26 PM : Clicking on element 'By.xpath: //*[@id='sopackageSelection:searchMagnifier']'
+08/26/2019 5:35:26 PM : WARNING : WebDriverException occured
+08/26/2019 5:35:26 PM : Waiting for '1' seconds
+08/26/2019 5:35:27 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:35:27 PM : Count is : 0
+08/26/2019 5:35:27 PM : Clicking on element 'By.xpath: //*[@id='sopackageSelection:searchMagnifier']'
+08/26/2019 5:35:27 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:35:27 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:salesPerson']'
+08/26/2019 5:35:27 PM : Count is : 0
+08/26/2019 5:35:27 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 5:35:27 PM : Count is : 0
+08/26/2019 5:35:27 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 5:35:27 PM : Count is : 0
+08/26/2019 5:35:27 PM : ERROR : Element located by 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']' is not available.
+08/26/2019 5:35:28 PM : Getting selected value from 'By.xpath: //*[text()='Service Package:']//following::select[1]'
+08/26/2019 5:35:28 PM : Selected value is : -- Select --
+08/26/2019 5:35:28 PM : Full Text : PCL - Provide Cellular/Mobile Phone
+08/26/2019 5:35:28 PM : Selecting value 'PCL - Provide Cellular/Mobile Phone' from 'By.xpath: //*[text()='Service Type:']//following::select[1]'
+08/26/2019 5:35:28 PM : Waiting for '4' seconds
+08/26/2019 5:35:32 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Service Package:']//following::select[1]' to appear
+08/26/2019 5:35:32 PM : Full Text : 120045-Pricing_Plan_Testing(PCL)
+08/26/2019 5:35:32 PM : Selecting value '120045-Pricing_Plan_Testing(PCL)' from 'By.xpath: //*[text()='Service Package:']//following::select[1]'
+08/26/2019 5:35:32 PM : Waiting for '1' seconds
+08/26/2019 5:35:33 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:35:34 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Pricing Plans']' to appear
+08/26/2019 5:35:38 PM : WARNING : TimeoutException occured
+08/26/2019 5:35:38 PM : Scrolling up
+08/26/2019 5:35:38 PM : Getting text from 'By.xpath: //span[@class='iceOutTxt blackBold']'
+08/26/2019 5:35:38 PM : Text is : Provision Type
+08/26/2019 5:35:38 PM : Counting the occurence of element 'By.xpath: //*[text()='To be Authorised By:']//input[1]'
+08/26/2019 5:35:38 PM : Count is : 0
+08/26/2019 5:35:38 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:35:38 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Service Product']' to appear
+08/26/2019 5:35:43 PM : WARNING : TimeoutException occured
+08/26/2019 5:35:43 PM : Scrolling up
+08/26/2019 5:35:43 PM : Getting text from 'By.xpath: //span[@class='iceOutTxt blackBold']'
+08/26/2019 5:35:43 PM : Text is : Provision Type
+08/26/2019 5:35:43 PM : Waiting for '4' seconds
+08/26/2019 5:35:47 PM : Counting the occurence of element 'By.xpath: //*[text()='Comverse Products']'
+08/26/2019 5:35:47 PM : Count is : 0
+08/26/2019 5:35:47 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:35:47 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Product Fields']' to appear
+08/26/2019 5:35:51 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:35:51 PM : Sending data 'dee' to field 'By.id: packageProductSelection:productFieldDetails:3:productFieldValue'
+08/26/2019 5:35:52 PM : WARNING : WebDriverException occured
+08/26/2019 5:35:52 PM : Waiting for '1' seconds
+08/26/2019 5:35:53 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:35:53 PM : Count is : 0
+08/26/2019 5:35:53 PM : Sending data 'dee' to field 'By.id: packageProductSelection:productFieldDetails:3:productFieldValue'
+08/26/2019 5:35:53 PM : WARNING : WebDriverException occured
+08/26/2019 5:35:53 PM : Waiting for '1' seconds
+08/26/2019 5:35:54 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:35:54 PM : Count is : 0
+08/26/2019 5:35:54 PM : Sending data 'dee' to field 'By.id: packageProductSelection:productFieldDetails:3:productFieldValue'
+08/26/2019 5:35:54 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:35:54 PM : Scrolling up
+08/26/2019 5:35:54 PM : Getting text from 'By.xpath: //span[@class='iceOutTxt blackBold']'
+08/26/2019 5:35:54 PM : Text is : Provision Type
+08/26/2019 5:35:54 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:35:54 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='ISP Fields']' to appear
+08/26/2019 5:35:58 PM : WARNING : TimeoutException occured
+08/26/2019 5:35:58 PM : Scrolling up
+08/26/2019 5:35:58 PM : Getting text from 'By.xpath: //span[@class='iceOutTxt blackBold']'
+08/26/2019 5:35:58 PM : Text is : Provision Type
+08/26/2019 5:35:58 PM : Getting text from 'By.xpath: //*[text()='Service Order No:']//following::span[1]'
+08/26/2019 5:35:59 PM : WARNING : WebDriverException occured
+08/26/2019 5:35:59 PM : Waiting for '1' seconds
+08/26/2019 5:36:00 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:36:00 PM : Count is : 0
+08/26/2019 5:36:00 PM : Getting text from 'By.xpath: //*[text()='Service Order No:']//following::span[1]'
+08/26/2019 5:36:00 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:36:00 PM : Sending data 'Deepak' to field 'By.xpath: //*[text()='ISP User Name']//following::input[1]'
+08/26/2019 5:36:00 PM : WARNING : WebDriverException occured
+08/26/2019 5:36:00 PM : Waiting for '1' seconds
+08/26/2019 5:36:01 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:36:01 PM : Count is : 0
+08/26/2019 5:36:01 PM : Sending data 'Deepak' to field 'By.xpath: //*[text()='ISP User Name']//following::input[1]'
+08/26/2019 5:36:01 PM : WARNING : WebDriverException occured
+08/26/2019 5:36:01 PM : Waiting for '1' seconds
+08/26/2019 5:36:02 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:36:02 PM : Count is : 0
+08/26/2019 5:36:02 PM : Sending data 'Deepak' to field 'By.xpath: //*[text()='ISP User Name']//following::input[1]'
+08/26/2019 5:36:02 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:36:02 PM : Waiting for '2' seconds
+08/26/2019 5:36:04 PM : Clicking on element 'By.xpath: //input[@value='Generate Password']'
+08/26/2019 5:36:04 PM : WARNING : WebDriverException occured
+08/26/2019 5:36:04 PM : Waiting for '1' seconds
+08/26/2019 5:36:05 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:36:05 PM : Count is : 0
+08/26/2019 5:36:05 PM : Clicking on element 'By.xpath: //input[@value='Generate Password']'
+08/26/2019 5:36:05 PM : WARNING : WebDriverException occured
+08/26/2019 5:36:05 PM : Waiting for '1' seconds
+08/26/2019 5:36:06 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:36:06 PM : Count is : 0
+08/26/2019 5:36:06 PM : Clicking on element 'By.xpath: //input[@value='Generate Password']'
+08/26/2019 5:36:06 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:36:06 PM : Counting the occurence of element 'By.xpath: //*[text()='Email Address']//following::input[1]'
+08/26/2019 5:36:06 PM : Count is : 0
+08/26/2019 5:36:06 PM : Counting the occurence of element 'By.xpath: //*[text()='Email Address']//following::select[1]'
+08/26/2019 5:36:06 PM : Count is : 0
+08/26/2019 5:36:06 PM : Counting the occurence of element 'By.xpath: //*[text()='ISP User Name']//following::input[1]'
+08/26/2019 5:36:06 PM : Count is : 0
+08/26/2019 5:36:06 PM : Clicking on element 'By.xpath: //input[@value='Generate Password']'
+08/26/2019 5:36:06 PM : WARNING : WebDriverException occured
+08/26/2019 5:36:06 PM : Waiting for '1' seconds
+08/26/2019 5:36:07 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:36:07 PM : Count is : 0
+08/26/2019 5:36:07 PM : Clicking on element 'By.xpath: //input[@value='Generate Password']'
+08/26/2019 5:36:07 PM : WARNING : WebDriverException occured
+08/26/2019 5:36:07 PM : Waiting for '1' seconds
+08/26/2019 5:36:08 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:36:08 PM : Count is : 0
+08/26/2019 5:36:08 PM : Clicking on element 'By.xpath: //input[@value='Generate Password']'
+08/26/2019 5:36:08 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:36:08 PM : Waiting for '2' seconds
+08/26/2019 5:36:10 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:36:11 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Service Details']' to appear
+08/26/2019 5:36:15 PM : WARNING : TimeoutException occured
+08/26/2019 5:36:15 PM : Counting the occurence of element 'By.xpath: //input[@value='Deallocate' and @class='iceCmdBtn cmdBtn']'
+08/26/2019 5:36:15 PM : Count is : 0
+08/26/2019 5:36:15 PM : Waiting for '2' seconds
+08/26/2019 5:36:17 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Number Area:']//following::select[@disabled='disabled'][1]' to disappear
+08/26/2019 5:36:17 PM : Waiting for '2' seconds
+08/26/2019 5:36:19 PM : Getting selected value from 'By.xpath: //*[text()='Service Number Allocation:']//following::select[1]'
+08/26/2019 5:36:19 PM : WARNING : WebDriverException occured
+08/26/2019 5:36:19 PM : Waiting for '1' seconds
+08/26/2019 5:36:20 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:36:20 PM : Count is : 0
+08/26/2019 5:36:20 PM : Getting selected value from 'By.xpath: //*[text()='Service Number Allocation:']//following::select[1]'
+08/26/2019 5:36:20 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:36:20 PM : Waiting '4' seconds for 'By.xpath: //input[@value='Deallocate' and @class='iceCmdBtn cmdBtn']' to appear
+08/26/2019 5:36:24 PM : WARNING : TimeoutException occured
+08/26/2019 5:36:24 PM : Counting the occurence of element 'By.xpath: //input[@value='Look Up']'
+08/26/2019 5:36:24 PM : Count is : 0
+08/26/2019 5:36:24 PM : Counting the occurence of element 'By.xpath: (//*[text()='User Name:']//following::input)[1]'
+08/26/2019 5:36:24 PM : Count is : 0
+08/26/2019 5:36:24 PM : Counting the occurence of element 'By.xpath: (//*[text()='PIN:']//following::input)[1]'
+08/26/2019 5:36:24 PM : Count is : 0
+08/26/2019 5:36:24 PM : Counting the occurence of element 'By.xpath: //*[text()='Service Usage:']//following::select[1]'
+08/26/2019 5:36:25 PM : Count is : 0
+08/26/2019 5:36:25 PM : Counting the occurence of element 'By.xpath: //*[text()='Charge Option:']//following::select[1]'
+08/26/2019 5:36:25 PM : Count is : 0
+08/26/2019 5:36:25 PM : Waiting for '1' seconds
+08/26/2019 5:36:26 PM : Waiting for '2' seconds
+08/26/2019 5:36:28 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Number Area:']//following::select[@disabled='disabled'][1]' to disappear
+08/26/2019 5:36:28 PM : Waiting for '2' seconds
+08/26/2019 5:36:30 PM : Waiting for '2' seconds
+08/26/2019 5:36:32 PM : Clicking on element 'By.xpath: //input[@value='Find']'
+08/26/2019 5:36:32 PM : WARNING : WebDriverException occured
+08/26/2019 5:36:32 PM : Waiting for '1' seconds
+08/26/2019 5:36:33 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:36:33 PM : Count is : 0
+08/26/2019 5:36:33 PM : Clicking on element 'By.xpath: //input[@value='Find']'
+08/26/2019 5:36:33 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:36:33 PM : Waiting for '2' seconds
+08/26/2019 5:36:35 PM : Clicking on element 'By.xpath: //*[@value = 'Allocate']'
+08/26/2019 5:36:35 PM : WARNING : WebDriverException occured
+08/26/2019 5:36:35 PM : Waiting for '1' seconds
+08/26/2019 5:36:36 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:36:36 PM : Count is : 0
+08/26/2019 5:36:36 PM : Clicking on element 'By.xpath: //*[@value = 'Allocate']'
+08/26/2019 5:36:36 PM : WARNING : WebDriverException occured
+08/26/2019 5:36:36 PM : Waiting for '1' seconds
+08/26/2019 5:36:37 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:36:37 PM : Count is : 0
+08/26/2019 5:36:37 PM : Clicking on element 'By.xpath: //*[@value = 'Allocate']'
+08/26/2019 5:36:37 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:36:37 PM : Waiting for '2' seconds
+08/26/2019 5:36:39 PM : Clicking on element 'By.xpath: //*[text()='Same as Account Address:']//following::input[1]'
+08/26/2019 5:36:39 PM : WARNING : WebDriverException occured
+08/26/2019 5:36:39 PM : Waiting for '1' seconds
+08/26/2019 5:36:40 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:36:40 PM : Count is : 0
+08/26/2019 5:36:40 PM : Clicking on element 'By.xpath: //*[text()='Same as Account Address:']//following::input[1]'
+08/26/2019 5:36:40 PM : WARNING : WebDriverException occured
+08/26/2019 5:36:40 PM : Waiting for '1' seconds
+08/26/2019 5:36:41 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:36:41 PM : Count is : 0
+08/26/2019 5:36:41 PM : Clicking on element 'By.xpath: //*[text()='Same as Account Address:']//following::input[1]'
+08/26/2019 5:36:41 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:36:41 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Address Type:']' to disappear
+08/26/2019 5:36:41 PM : Waiting for '1' seconds
+08/26/2019 5:36:42 PM : Counting the occurence of element 'By.xpath: //*[text()='Credit Limit:']//following::input[1]'
+08/26/2019 5:36:42 PM : Count is : 0
+08/26/2019 5:36:42 PM : Waiting for '1' seconds
+08/26/2019 5:36:43 PM : Counting the occurence of element 'By.xpath: //*[text()='Call Limit:']//following::input[1]'
+08/26/2019 5:36:43 PM : Count is : 0
+08/26/2019 5:36:43 PM : Waiting for '1' seconds
+08/26/2019 5:36:44 PM : Counting the occurence of element 'By.xpath: //*[text()='Use Customer-Selected Credit Limit:']//following::input[1]'
+08/26/2019 5:36:44 PM : Count is : 0
+08/26/2019 5:36:44 PM : Waiting for '1' seconds
+08/26/2019 5:36:45 PM : Counting the occurence of element 'By.xpath: //*[text()='Customer-Selected Credit Limit:']//following::input[1]'
+08/26/2019 5:36:45 PM : Count is : 0
+08/26/2019 5:36:45 PM : Waiting for '1' seconds
+08/26/2019 5:36:46 PM : Counting the occurence of element 'By.xpath: //*[text()='Customer-Selected Update Type:']//following::select[1]'
+08/26/2019 5:36:46 PM : Count is : 0
+08/26/2019 5:36:46 PM : Waiting for '1' seconds
+08/26/2019 5:36:47 PM : Counting the occurence of element 'By.xpath: //*[text()='Customer-Selected Bar Type:']//following::select[1]'
+08/26/2019 5:36:48 PM : Count is : 0
+08/26/2019 5:36:48 PM : Waiting for '1' seconds
+08/26/2019 5:36:49 PM : Waiting for '1' seconds
+08/26/2019 5:36:50 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:36:50 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Contract Details']' to appear
+08/26/2019 5:36:54 PM : WARNING : TimeoutException occured
+08/26/2019 5:36:54 PM : Counting the occurence of element 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Contract Details']'
+08/26/2019 5:36:54 PM : Count is : 0
+08/26/2019 5:36:54 PM : Counting the occurence of element 'By.xpath: //input[@value='Submit']'
+08/26/2019 5:36:54 PM : Count is : 0
+08/26/2019 5:36:55 PM : Waiting for '2' seconds
+08/26/2019 5:36:57 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:37:05 PM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/26/2019 5:37:09 PM : Counting the occurence of element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']'
+08/26/2019 5:37:09 PM : Count is : 0
+08/26/2019 5:37:09 PM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/26/2019 5:37:09 PM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/26/2019 5:37:09 PM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/26/2019 5:37:09 PM : Waiting '60' seconds for 'By.xpath: //*[@id='login:loginButtonImg']' to disappear
+08/26/2019 5:37:34 PM : Counting the occurence of element 'By.xpath: //iframe[@id='liberate']'
+08/26/2019 5:37:34 PM : Count is : 0
+08/26/2019 5:37:34 PM : Waiting '60' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']' to appear
+08/26/2019 5:37:34 PM : Scrolling up
+08/26/2019 5:37:34 PM : Waiting for '1' seconds
+08/26/2019 5:37:35 PM : Scrolling up
+08/26/2019 5:37:35 PM : Waiting for '1' seconds
+08/26/2019 5:37:36 PM : Waiting '4' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']' to appear
+08/26/2019 5:37:36 PM : Clicking on element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']'
+08/26/2019 5:37:59 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Service No.:']/following::input[1]' to appear
+08/26/2019 5:37:59 PM : Sending data '78902506' to field 'By.xpath: //*[text()='Service No.:']/following::input[1]'
+08/26/2019 5:37:59 PM : Waiting for '1' seconds
+08/26/2019 5:38:00 PM : Clicking on element 'By.xpath: //input[@value='Search']'
+08/26/2019 5:38:00 PM : Waiting for '4' seconds
+08/26/2019 5:38:04 PM : Counting the occurence of element 'By.xpath: //*[text()='Quick Search']'
+08/26/2019 5:38:08 PM : WARNING : WebDriverException occured
+08/26/2019 5:38:08 PM : Waiting for '1' seconds
+08/26/2019 5:38:09 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:38:17 PM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/26/2019 5:38:21 PM : Counting the occurence of element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']'
+08/26/2019 5:38:21 PM : Count is : 0
+08/26/2019 5:38:21 PM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/26/2019 5:38:21 PM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/26/2019 5:38:21 PM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/26/2019 5:38:21 PM : Waiting '60' seconds for 'By.xpath: //*[@id='login:loginButtonImg']' to disappear
+08/26/2019 5:38:31 PM : Counting the occurence of element 'By.xpath: //iframe[@id='liberate']'
+08/26/2019 5:38:31 PM : Count is : 0
+08/26/2019 5:38:31 PM : Waiting '60' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']' to appear
+08/26/2019 5:38:31 PM : Scrolling up
+08/26/2019 5:38:31 PM : Waiting for '1' seconds
+08/26/2019 5:38:32 PM : Scrolling up
+08/26/2019 5:38:32 PM : Waiting for '1' seconds
+08/26/2019 5:38:33 PM : Waiting '4' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']' to appear
+08/26/2019 5:38:33 PM : Clicking on element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']'
+08/26/2019 5:38:37 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Service No.:']/following::input[1]' to appear
+08/26/2019 5:38:37 PM : Sending data '78902506' to field 'By.xpath: //*[text()='Service No.:']/following::input[1]'
+08/26/2019 5:38:37 PM : Waiting for '1' seconds
+08/26/2019 5:38:38 PM : Clicking on element 'By.xpath: //input[@value='Search']'
+08/26/2019 5:38:38 PM : Waiting for '4' seconds
+08/26/2019 5:38:42 PM : Counting the occurence of element 'By.xpath: //*[text()='Quick Search']'
+08/26/2019 5:38:42 PM : Count is : 0
+08/26/2019 5:38:42 PM : Waiting for '2' seconds
+08/26/2019 5:38:44 PM : Waiting for '2' seconds
+08/26/2019 5:38:46 PM : Counting the occurence of element 'By.xpath: //*[text()='Exclude Closed/Ceased Accounts:']'
+08/26/2019 5:38:46 PM : Count is : 0
+08/26/2019 5:38:46 PM : Counting the occurence of element 'By.xpath: //*[text()='Summary']'
+08/26/2019 5:38:46 PM : Count is : 0
+08/26/2019 5:38:46 PM : Clicking on element 'By.xpath: //td[@class='bodyleftcol']/descendant::*[text()='Services']'
+08/26/2019 5:38:49 PM : Waiting for '20' seconds
+08/26/2019 5:39:09 PM : Waiting '5' seconds for 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Copy/Move')]]' to appear
+08/26/2019 5:39:09 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Copy/Move')]]'
+08/26/2019 5:39:09 PM : Waiting for '1' seconds
+08/26/2019 5:39:10 PM : Waiting '5' seconds for 'By.xpath: //*[text()='Clone Service']' to appear
+08/26/2019 5:39:15 PM : WARNING : TimeoutException occured
+08/26/2019 5:39:16 PM : Clicking on element 'By.xpath: //*[text()='Clone Service']'
+08/26/2019 5:39:16 PM : WARNING : InvalidElementStateException occured
+08/26/2019 5:39:16 PM : Waiting for '1' seconds
+08/26/2019 5:39:17 PM : Clicking on element 'By.xpath: //*[text()='Clone Service']'
+08/26/2019 5:39:17 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:39:17 PM : Waiting for '1' seconds
+08/26/2019 5:39:18 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Department:']//following::select[1]' to appear
+08/26/2019 5:39:23 PM : WARNING : TimeoutException occured
+08/26/2019 5:39:23 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Site:']//following::select[@disabled='disabled'][1]' to disappear
+08/26/2019 5:39:23 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:salesPersonSearch']'
+08/26/2019 5:39:23 PM : Count is : 0
+08/26/2019 5:39:23 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:searchMagnifier']'
+08/26/2019 5:39:23 PM : Count is : 0
+08/26/2019 5:39:23 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:salesPerson']'
+08/26/2019 5:39:23 PM : Count is : 0
+08/26/2019 5:39:23 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 5:39:23 PM : Count is : 0
+08/26/2019 5:39:23 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 5:39:23 PM : Count is : 0
+08/26/2019 5:39:23 PM : ERROR : Element located by 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']' is not available.
+08/26/2019 5:39:23 PM : Getting selected value from 'By.xpath: //*[text()='Service Package:']//following::select[1]'
+08/26/2019 5:39:23 PM : WARNING : WebDriverException occured
+08/26/2019 5:39:23 PM : Waiting for '1' seconds
+08/26/2019 5:39:24 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:39:24 PM : Count is : 0
+08/26/2019 5:39:24 PM : Getting selected value from 'By.xpath: //*[text()='Service Package:']//following::select[1]'
+08/26/2019 5:39:24 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:39:24 PM : Waiting for '1' seconds
+08/26/2019 5:39:25 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:39:25 PM : WARNING : WebDriverException occured
+08/26/2019 5:39:25 PM : Waiting for '1' seconds
+08/26/2019 5:39:26 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:39:26 PM : Count is : 0
+08/26/2019 5:39:26 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:39:26 PM : WARNING : WebDriverException occured
+08/26/2019 5:39:26 PM : Waiting for '1' seconds
+08/26/2019 5:39:27 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:39:27 PM : Count is : 0
+08/26/2019 5:39:27 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:39:27 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:39:28 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Pricing Plans']' to appear
+08/26/2019 5:39:32 PM : WARNING : TimeoutException occured
+08/26/2019 5:39:32 PM : Scrolling up
+08/26/2019 5:39:32 PM : Getting text from 'By.xpath: //span[@class='iceOutTxt blackBold']'
+08/26/2019 5:39:32 PM : Text is : Contract No.
+08/26/2019 5:39:32 PM : Counting the occurence of element 'By.xpath: //*[text()='To be Authorised By:']//input[1]'
+08/26/2019 5:39:32 PM : Count is : 0
+08/26/2019 5:39:32 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:39:32 PM : WARNING : WebDriverException occured
+08/26/2019 5:39:32 PM : Waiting for '1' seconds
+08/26/2019 5:39:33 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:39:33 PM : Count is : 0
+08/26/2019 5:39:33 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:39:33 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:39:34 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Service Product']' to appear
+08/26/2019 5:39:38 PM : WARNING : TimeoutException occured
+08/26/2019 5:39:38 PM : Scrolling up
+08/26/2019 5:39:38 PM : Getting text from 'By.xpath: //span[@class='iceOutTxt blackBold']'
+08/26/2019 5:39:38 PM : Text is : Contract No.
+08/26/2019 5:39:38 PM : Waiting for '4' seconds
+08/26/2019 5:39:42 PM : Counting the occurence of element 'By.xpath: //*[text()='Comverse Products']'
+08/26/2019 5:39:42 PM : Count is : 0
+08/26/2019 5:39:42 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:39:42 PM : WARNING : WebDriverException occured
+08/26/2019 5:39:42 PM : Waiting for '1' seconds
+08/26/2019 5:39:43 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:39:44 PM : Count is : 0
+08/26/2019 5:39:44 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:39:45 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Product Fields']' to appear
+08/26/2019 5:39:49 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:39:49 PM : Sending data 'dee' to field 'By.id: packageProductSelection:productFieldDetails:3:productFieldValue'
+08/26/2019 5:39:49 PM : WARNING : WebDriverException occured
+08/26/2019 5:39:49 PM : Waiting for '1' seconds
+08/26/2019 5:39:50 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:39:50 PM : Count is : 0
+08/26/2019 5:39:50 PM : Sending data 'dee' to field 'By.id: packageProductSelection:productFieldDetails:3:productFieldValue'
+08/26/2019 5:39:50 PM : WARNING : WebDriverException occured
+08/26/2019 5:39:50 PM : Waiting for '1' seconds
+08/26/2019 5:39:51 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:39:51 PM : Count is : 0
+08/26/2019 5:39:51 PM : Sending data 'dee' to field 'By.id: packageProductSelection:productFieldDetails:3:productFieldValue'
+08/26/2019 5:39:51 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:39:51 PM : Scrolling up
+08/26/2019 5:39:51 PM : Getting text from 'By.xpath: //span[@class='iceOutTxt blackBold']'
+08/26/2019 5:39:51 PM : Text is : Provision Type
+08/26/2019 5:39:51 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:39:52 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='ISP Fields']' to appear
+08/26/2019 5:39:56 PM : WARNING : TimeoutException occured
+08/26/2019 5:39:56 PM : Scrolling up
+08/26/2019 5:40:05 PM : Navigating to 'https://liberate.cwihq.cwigintra.com/liberate-LONI01-S10/'
+08/26/2019 5:40:09 PM : Counting the occurence of element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']'
+08/26/2019 5:40:09 PM : Count is : 0
+08/26/2019 5:40:09 PM : Sending data 'libadmin' to field 'By.xpath: //*[@id='login:userName']'
+08/26/2019 5:40:09 PM : Sending data 'Ic3cr34m!' to field 'By.xpath: //*[@id='login:userPassword']'
+08/26/2019 5:40:10 PM : Clicking on element 'By.xpath: //*[@id='login:loginButtonImg']'
+08/26/2019 5:40:10 PM : Waiting '60' seconds for 'By.xpath: //*[@id='login:loginButtonImg']' to disappear
+08/26/2019 5:40:19 PM : Counting the occurence of element 'By.xpath: //iframe[@id='liberate']'
+08/26/2019 5:40:19 PM : Count is : 0
+08/26/2019 5:40:19 PM : Waiting '60' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Home']' to appear
+08/26/2019 5:40:19 PM : Scrolling up
+08/26/2019 5:40:19 PM : Waiting for '1' seconds
+08/26/2019 5:40:20 PM : Scrolling up
+08/26/2019 5:40:20 PM : Waiting for '1' seconds
+08/26/2019 5:40:21 PM : Waiting '4' seconds for 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']' to appear
+08/26/2019 5:40:21 PM : Clicking on element 'By.xpath: //div[@class='headermenu_row']/descendant::*[text()='Customer Care']'
+08/26/2019 5:40:26 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Service No.:']/following::input[1]' to appear
+08/26/2019 5:40:26 PM : Sending data '78902506' to field 'By.xpath: //*[text()='Service No.:']/following::input[1]'
+08/26/2019 5:40:26 PM : Waiting for '1' seconds
+08/26/2019 5:40:27 PM : Clicking on element 'By.xpath: //input[@value='Search']'
+08/26/2019 5:40:27 PM : Waiting for '4' seconds
+08/26/2019 5:40:31 PM : Counting the occurence of element 'By.xpath: //*[text()='Quick Search']'
+08/26/2019 5:40:31 PM : Count is : 0
+08/26/2019 5:40:31 PM : Waiting for '2' seconds
+08/26/2019 5:40:34 PM : Waiting for '2' seconds
+08/26/2019 5:40:36 PM : Counting the occurence of element 'By.xpath: //*[text()='Exclude Closed/Ceased Accounts:']'
+08/26/2019 5:40:36 PM : Count is : 0
+08/26/2019 5:40:36 PM : Counting the occurence of element 'By.xpath: //*[text()='Summary']'
+08/26/2019 5:40:36 PM : Count is : 0
+08/26/2019 5:40:36 PM : Clicking on element 'By.xpath: //td[@class='bodyleftcol']/descendant::*[text()='Services']'
+08/26/2019 5:40:38 PM : Waiting for '20' seconds
+08/26/2019 5:40:59 PM : Waiting '5' seconds for 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Copy/Move')]]' to appear
+08/26/2019 5:40:59 PM : Clicking on element 'By.xpath: //span[contains(@class,'actionButtonHeadingSpaceLabel')][text()[contains(.,'Copy/Move')]]'
+08/26/2019 5:40:59 PM : Waiting for '1' seconds
+08/26/2019 5:41:00 PM : Waiting '5' seconds for 'By.xpath: //*[text()='Clone Service']' to appear
+08/26/2019 5:41:05 PM : WARNING : TimeoutException occured
+08/26/2019 5:41:05 PM : Clicking on element 'By.xpath: //*[text()='Clone Service']'
+08/26/2019 5:41:05 PM : WARNING : WebDriverException occured
+08/26/2019 5:41:05 PM : Waiting for '1' seconds
+08/26/2019 5:41:06 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:41:06 PM : Count is : 0
+08/26/2019 5:41:06 PM : Clicking on element 'By.xpath: //*[text()='Clone Service']'
+08/26/2019 5:41:06 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:41:06 PM : Waiting for '1' seconds
+08/26/2019 5:41:08 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Department:']//following::select[1]' to appear
+08/26/2019 5:41:08 PM : Full Text : AQSAL - Anderson Sq Sales
+08/26/2019 5:41:08 PM : Selecting value 'AQSAL - Anderson Sq Sales' from 'By.xpath: //*[text()='Department:']//following::select[1]'
+08/26/2019 5:41:08 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Site:']//following::select[@disabled='disabled'][1]' to disappear
+08/26/2019 5:41:09 PM : Full Text : ANSQ-Anderson Square Store
+08/26/2019 5:41:09 PM : Selecting value 'ANSQ-Anderson Square Store' from 'By.xpath: //*[text()='Site:']//following::select[1]'
+08/26/2019 5:41:09 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:salesPersonSearch']'
+08/26/2019 5:41:09 PM : Count is : 1
+08/26/2019 5:41:09 PM : Waiting '4' seconds for 'By.xpath: //*[@id='sopackageSelection:salesPersonSearch']' to appear
+08/26/2019 5:41:09 PM : Sending data '99999' to field 'By.xpath: //*[@id='sopackageSelection:salesPersonSearch']'
+08/26/2019 5:41:09 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:searchMagnifier']'
+08/26/2019 5:41:09 PM : Count is : 1
+08/26/2019 5:41:09 PM : Waiting for '1' seconds
+08/26/2019 5:41:10 PM : Waiting '4' seconds for 'By.xpath: //*[@id='sopackageSelection:searchMagnifier']' to appear
+08/26/2019 5:41:10 PM : Clicking on element 'By.xpath: //*[@id='sopackageSelection:searchMagnifier']'
+08/26/2019 5:41:10 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:salesPerson']'
+08/26/2019 5:41:10 PM : Count is : 1
+08/26/2019 5:41:10 PM : Waiting '4' seconds for 'By.xpath: //*[@id='sopackageSelection:salesPerson']' to appear
+08/26/2019 5:41:10 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:salesPerson']'
+08/26/2019 5:41:10 PM : Count is : 1
+08/26/2019 5:41:10 PM : Selecting index '1' from 'By.xpath: //*[@id='sopackageSelection:salesPerson']'
+08/26/2019 5:41:10 PM : Waiting for '1' seconds
+08/26/2019 5:41:11 PM : Getting selected value from 'By.xpath: //*[@id='sopackageSelection:salesPerson']'
+08/26/2019 5:41:11 PM : Selected value is : 99999-RHQ DEVELOP
+08/26/2019 5:41:11 PM : Selected value : 99999-RHQ DEVELOP
+08/26/2019 5:41:11 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 5:41:11 PM : Count is : 1
+08/26/2019 5:41:11 PM : Waiting '4' seconds for 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']' to appear
+08/26/2019 5:41:11 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 5:41:11 PM : Count is : 1
+08/26/2019 5:41:11 PM : Selecting index '1' from 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 5:41:12 PM : Waiting for '1' seconds
+08/26/2019 5:41:13 PM : Getting selected value from 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 5:41:13 PM : Selected value is : 1-CITN TV Commercial
+08/26/2019 5:41:13 PM : Selected value : 1-CITN TV Commercial
+08/26/2019 5:41:13 PM : Counting the occurence of element 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 5:41:13 PM : Count is : 1
+08/26/2019 5:41:13 PM : Selecting index '1' from 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 5:41:13 PM : Waiting for '1' seconds
+08/26/2019 5:41:14 PM : Getting selected value from 'By.xpath: //*[@id='sopackageSelection:fixedApplicationSource']'
+08/26/2019 5:41:14 PM : Selected value is : 1-CITN TV Commercial
+08/26/2019 5:41:14 PM : Selected value : 1-CITN TV Commercial
+08/26/2019 5:41:14 PM : Getting selected value from 'By.xpath: //*[text()='Service Package:']//following::select[1]'
+08/26/2019 5:41:14 PM : Selected value is : -- Select --
+08/26/2019 5:41:14 PM : Full Text : PCL - Provide Cellular/Mobile Phone
+08/26/2019 5:41:14 PM : Selecting value 'PCL - Provide Cellular/Mobile Phone' from 'By.xpath: //*[text()='Service Type:']//following::select[1]'
+08/26/2019 5:41:15 PM : Waiting for '4' seconds
+08/26/2019 5:41:19 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Service Package:']//following::select[1]' to appear
+08/26/2019 5:41:19 PM : Full Text : 120045-Pricing_Plan_Testing(PCL)
+08/26/2019 5:41:19 PM : Selecting value '120045-Pricing_Plan_Testing(PCL)' from 'By.xpath: //*[text()='Service Package:']//following::select[1]'
+08/26/2019 5:41:19 PM : Waiting for '1' seconds
+08/26/2019 5:41:20 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:41:20 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Pricing Plans']' to appear
+08/26/2019 5:41:21 PM : Scrolling up
+08/26/2019 5:41:21 PM : Getting text from 'By.xpath: //span[@class='iceOutTxt blackBold']'
+08/26/2019 5:41:21 PM : Text is : Pricing Plans
+08/26/2019 5:41:21 PM : Counting the occurence of element 'By.xpath: //*[text()='To be Authorised By:']//input[1]'
+08/26/2019 5:41:21 PM : Count is : 0
+08/26/2019 5:41:21 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:41:22 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Service Product']' to appear
+08/26/2019 5:41:24 PM : Scrolling up
+08/26/2019 5:41:24 PM : Getting text from 'By.xpath: //span[@class='iceOutTxt blackBold']'
+08/26/2019 5:41:24 PM : Text is : Service Product
+08/26/2019 5:41:24 PM : Waiting for '4' seconds
+08/26/2019 5:41:28 PM : Counting the occurence of element 'By.xpath: //*[text()='Comverse Products']'
+08/26/2019 5:41:28 PM : Count is : 0
+08/26/2019 5:41:28 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:41:29 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Product Fields']' to appear
+08/26/2019 5:41:29 PM : Sending data 'dee' to field 'By.id: packageProductSelection:productFieldDetails:3:productFieldValue'
+08/26/2019 5:41:29 PM : WARNING : WebDriverException occured
+08/26/2019 5:41:29 PM : Waiting for '1' seconds
+08/26/2019 5:41:30 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:41:30 PM : Count is : 0
+08/26/2019 5:41:30 PM : Sending data 'dee' to field 'By.id: packageProductSelection:productFieldDetails:3:productFieldValue'
+08/26/2019 5:41:30 PM : WARNING : WebDriverException occured
+08/26/2019 5:41:30 PM : Waiting for '1' seconds
+08/26/2019 5:41:31 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:41:31 PM : Count is : 0
+08/26/2019 5:41:31 PM : Sending data 'dee' to field 'By.id: packageProductSelection:productFieldDetails:3:productFieldValue'
+08/26/2019 5:41:31 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:41:31 PM : Scrolling up
+08/26/2019 5:41:31 PM : Getting text from 'By.xpath: //span[@class='iceOutTxt blackBold']'
+08/26/2019 5:41:31 PM : Text is : Product Fields
+08/26/2019 5:41:31 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:41:34 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='ISP Fields']' to appear
+08/26/2019 5:41:38 PM : WARNING : TimeoutException occured
+08/26/2019 5:41:38 PM : Scrolling up
+08/26/2019 5:41:38 PM : Getting text from 'By.xpath: //span[@class='iceOutTxt blackBold']'
+08/26/2019 5:41:38 PM : Text is : Service Details
+08/26/2019 5:41:38 PM : Getting text from 'By.xpath: //*[text()='Service Order No:']//following::span[1]'
+08/26/2019 5:41:38 PM : Text is : C00131H
+08/26/2019 5:41:38 PM : Sending data 'Deepak' to field 'By.xpath: //*[text()='ISP User Name']//following::input[1]'
+08/26/2019 5:41:38 PM : WARNING : WebDriverException occured
+08/26/2019 5:41:38 PM : Waiting for '1' seconds
+08/26/2019 5:41:39 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:41:39 PM : Count is : 0
+08/26/2019 5:41:39 PM : Sending data 'Deepak' to field 'By.xpath: //*[text()='ISP User Name']//following::input[1]'
+08/26/2019 5:41:39 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:41:39 PM : Waiting for '2' seconds
+08/26/2019 5:41:41 PM : Clicking on element 'By.xpath: //input[@value='Generate Password']'
+08/26/2019 5:41:41 PM : WARNING : WebDriverException occured
+08/26/2019 5:41:41 PM : Waiting for '1' seconds
+08/26/2019 5:41:42 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:41:42 PM : Count is : 0
+08/26/2019 5:41:42 PM : Clicking on element 'By.xpath: //input[@value='Generate Password']'
+08/26/2019 5:41:42 PM : WARNING : WebDriverException occured
+08/26/2019 5:41:42 PM : Waiting for '1' seconds
+08/26/2019 5:41:43 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:41:43 PM : Count is : 0
+08/26/2019 5:41:43 PM : Clicking on element 'By.xpath: //input[@value='Generate Password']'
+08/26/2019 5:41:43 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:41:43 PM : Counting the occurence of element 'By.xpath: //*[text()='Email Address']//following::input[1]'
+08/26/2019 5:41:43 PM : Count is : 0
+08/26/2019 5:41:43 PM : Counting the occurence of element 'By.xpath: //*[text()='Email Address']//following::select[1]'
+08/26/2019 5:41:43 PM : Count is : 0
+08/26/2019 5:41:43 PM : Counting the occurence of element 'By.xpath: //*[text()='ISP User Name']//following::input[1]'
+08/26/2019 5:41:43 PM : Count is : 0
+08/26/2019 5:41:43 PM : Clicking on element 'By.xpath: //input[@value='Generate Password']'
+08/26/2019 5:41:43 PM : WARNING : WebDriverException occured
+08/26/2019 5:41:43 PM : Waiting for '1' seconds
+08/26/2019 5:41:44 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:41:44 PM : Count is : 0
+08/26/2019 5:41:44 PM : Clicking on element 'By.xpath: //input[@value='Generate Password']'
+08/26/2019 5:41:44 PM : WARNING : WebDriverException occured
+08/26/2019 5:41:44 PM : Waiting for '1' seconds
+08/26/2019 5:41:45 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:41:45 PM : Count is : 0
+08/26/2019 5:41:45 PM : Clicking on element 'By.xpath: //input[@value='Generate Password']'
+08/26/2019 5:41:46 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:41:46 PM : Waiting for '2' seconds
+08/26/2019 5:41:48 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:41:48 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Service Details']' to appear
+08/26/2019 5:41:48 PM : Counting the occurence of element 'By.xpath: //input[@value='Deallocate' and @class='iceCmdBtn cmdBtn']'
+08/26/2019 5:41:48 PM : Count is : 0
+08/26/2019 5:41:48 PM : Full Text : MSCA-Post-paid GSM
+08/26/2019 5:41:48 PM : Selecting value 'MSCA-Post-paid GSM' from 'By.xpath: //*[text()='Exchange:']//following::select[1]'
+08/26/2019 5:41:48 PM : Waiting for '2' seconds
+08/26/2019 5:41:50 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Number Area:']//following::select[@disabled='disabled'][1]' to disappear
+08/26/2019 5:41:55 PM : WARNING : TimeoutException occured
+08/26/2019 5:41:55 PM : Waiting for '2' seconds
+08/26/2019 5:41:57 PM : Full Text : SMPO-GSM Post Paid Mobile
+08/26/2019 5:41:57 PM : Selecting value 'SMPO-GSM Post Paid Mobile' from 'By.xpath: //*[text()='Number Area:']//following::select[1]'
+08/26/2019 5:41:57 PM : Getting selected value from 'By.xpath: //*[text()='Service Number Allocation:']//following::select[1]'
+08/26/2019 5:41:57 PM : Selected value is : Manual
+08/26/2019 5:41:57 PM : Full Text : Auto
+08/26/2019 5:41:57 PM : Selecting value 'Auto' from 'By.xpath: //*[text()='Service Number Allocation:']//following::select[1]'
+08/26/2019 5:41:57 PM : Waiting '4' seconds for 'By.xpath: //input[@value='Deallocate' and @class='iceCmdBtn cmdBtn']' to appear
+08/26/2019 5:42:01 PM : WARNING : TimeoutException occured
+08/26/2019 5:42:01 PM : Counting the occurence of element 'By.xpath: //input[@value='Look Up']'
+08/26/2019 5:42:01 PM : Count is : 1
+08/26/2019 5:42:01 PM : Clicking on element 'By.xpath: //input[@value='Look Up']'
+08/26/2019 5:42:01 PM : Waiting '4' seconds for 'By.xpath: //*[text()='More Numbers exist matching the details entered']' to appear
+08/26/2019 5:42:03 PM : Waiting for '1' seconds
+08/26/2019 5:42:04 PM : Counting the occurence of element 'By.xpath: //*[text()='SIM:']//following::select[1]'
+08/26/2019 5:42:04 PM : Count is : 1
+08/26/2019 5:42:04 PM : Selecting index '10' from 'By.xpath: //*[text()='SIM:']//following::select[1]'
+08/26/2019 5:42:04 PM : Waiting for '1' seconds
+08/26/2019 5:42:05 PM : Getting selected value from 'By.xpath: //*[text()='SIM:']//following::select[1]'
+08/26/2019 5:42:05 PM : Selected value is : 03010008448 (Z - Retired)
+08/26/2019 5:42:05 PM : Selected value : 03010008448 (Z - Retired)
+08/26/2019 5:42:05 PM : Waiting for '2' seconds
+08/26/2019 5:42:07 PM : Counting the occurence of element 'By.xpath: (//*[text()='User Name:']//following::input)[1]'
+08/26/2019 5:42:07 PM : Count is : 0
+08/26/2019 5:42:07 PM : Counting the occurence of element 'By.xpath: (//*[text()='PIN:']//following::input)[1]'
+08/26/2019 5:42:07 PM : Count is : 1
+08/26/2019 5:42:07 PM : Clicking on element 'By.xpath: (//*[text()='PIN:']//following::input)[1]'
+08/26/2019 5:42:07 PM : Waiting for '2' seconds
+08/26/2019 5:42:09 PM : Sending data '4545' to field 'By.xpath: (//*[text()='PIN:']//following::input)[1]'
+08/26/2019 5:42:09 PM : Counting the occurence of element 'By.xpath: //*[text()='Service Usage:']//following::select[1]'
+08/26/2019 5:42:09 PM : Count is : 0
+08/26/2019 5:42:09 PM : Counting the occurence of element 'By.xpath: //*[text()='Charge Option:']//following::select[1]'
+08/26/2019 5:42:09 PM : Count is : 0
+08/26/2019 5:42:09 PM : Waiting for '1' seconds
+08/26/2019 5:42:10 PM : Full Text : MSCA-Post-paid GSM
+08/26/2019 5:42:10 PM : Selecting value 'MSCA-Post-paid GSM' from 'By.xpath: //*[text()='Exchange:']//following::select[1]'
+08/26/2019 5:42:11 PM : Waiting for '2' seconds
+08/26/2019 5:42:13 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Number Area:']//following::select[@disabled='disabled'][1]' to disappear
+08/26/2019 5:42:17 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:42:17 PM : Waiting for '2' seconds
+08/26/2019 5:42:19 PM : Full Text : SMPO-GSM Post Paid Mobile
+08/26/2019 5:42:19 PM : Selecting value 'SMPO-GSM Post Paid Mobile' from 'By.xpath: //*[text()='Number Area:']//following::select[1]'
+08/26/2019 5:42:19 PM : Waiting for '2' seconds
+08/26/2019 5:42:21 PM : Clicking on element 'By.xpath: //input[@value='Find']'
+08/26/2019 5:42:21 PM : Waiting for '2' seconds
+08/26/2019 5:42:23 PM : Clicking on element 'By.xpath: //*[@value = 'Allocate']'
+08/26/2019 5:42:23 PM : WARNING : InvalidElementStateException occured
+08/26/2019 5:42:23 PM : Waiting for '1' seconds
+08/26/2019 5:42:24 PM : Clicking on element 'By.xpath: //*[@value = 'Allocate']'
+08/26/2019 5:42:24 PM : WARNING : InvalidElementStateException occured
+08/26/2019 5:42:25 PM : Waiting for '1' seconds
+08/26/2019 5:42:26 PM : Clicking on element 'By.xpath: //*[@value = 'Allocate']'
+08/26/2019 5:42:26 PM : ERROR : UAVOIDABLE ERROR OCCURED.
+08/26/2019 5:42:26 PM : Waiting for '2' seconds
+08/26/2019 5:42:28 PM : Clicking on element 'By.xpath: //*[text()='Same as Account Address:']//following::input[1]'
+08/26/2019 5:42:28 PM : Waiting '4' seconds for 'By.xpath: //*[text()='Address Type:']' to disappear
+08/26/2019 5:42:29 PM : Waiting for '1' seconds
+08/26/2019 5:42:30 PM : Counting the occurence of element 'By.xpath: //*[text()='Credit Limit:']//following::input[1]'
+08/26/2019 5:42:30 PM : Count is : 1
+08/26/2019 5:42:30 PM : Sending data '100' to field 'By.xpath: //*[text()='Credit Limit:']//following::input[1]'
+08/26/2019 5:42:30 PM : Waiting for '1' seconds
+08/26/2019 5:42:31 PM : Counting the occurence of element 'By.xpath: //*[text()='Call Limit:']//following::input[1]'
+08/26/2019 5:42:31 PM : Count is : 1
+08/26/2019 5:42:31 PM : Sending data '100' to field 'By.xpath: //*[text()='Call Limit:']//following::input[1]'
+08/26/2019 5:42:31 PM : Waiting for '1' seconds
+08/26/2019 5:42:32 PM : Counting the occurence of element 'By.xpath: //*[text()='Use Customer-Selected Credit Limit:']//following::input[1]'
+08/26/2019 5:42:32 PM : Count is : 1
+08/26/2019 5:42:32 PM : Clicking on element 'By.xpath: //*[text()='Use Customer-Selected Credit Limit:']//following::input[1]'
+08/26/2019 5:42:32 PM : Waiting for '1' seconds
+08/26/2019 5:42:33 PM : Counting the occurence of element 'By.xpath: //*[text()='Customer-Selected Credit Limit:']//following::input[1]'
+08/26/2019 5:42:33 PM : Count is : 1
+08/26/2019 5:42:33 PM : Sending data '90' to field 'By.xpath: //*[text()='Customer-Selected Credit Limit:']//following::input[1]'
+08/26/2019 5:42:34 PM : Waiting for '1' seconds
+08/26/2019 5:42:35 PM : Counting the occurence of element 'By.xpath: //*[text()='Customer-Selected Update Type:']//following::select[1]'
+08/26/2019 5:42:35 PM : Count is : 1
+08/26/2019 5:42:35 PM : Full Text : Phone
+08/26/2019 5:42:35 PM : Selecting value 'Phone' from 'By.xpath: //*[text()='Customer-Selected Update Type:']//following::select[1]'
+08/26/2019 5:42:35 PM : Waiting for '1' seconds
+08/26/2019 5:42:36 PM : Counting the occurence of element 'By.xpath: //*[text()='Customer-Selected Bar Type:']//following::select[1]'
+08/26/2019 5:42:36 PM : Count is : 1
+08/26/2019 5:42:36 PM : Full Text : All
+08/26/2019 5:42:36 PM : Selecting value 'All' from 'By.xpath: //*[text()='Customer-Selected Bar Type:']//following::select[1]'
+08/26/2019 5:42:36 PM : Waiting for '1' seconds
+08/26/2019 5:42:37 PM : Waiting for '1' seconds
+08/26/2019 5:42:38 PM : Clicking on element 'By.xpath: //input[@value='Proceed']'
+08/26/2019 5:42:44 PM : Waiting '4' seconds for 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Contract Details']' to appear
+08/26/2019 5:42:44 PM : Counting the occurence of element 'By.xpath: //span[@class = 'iceOutTxt blackBold' and text()='Contract Details']'
+08/26/2019 5:42:44 PM : Count is : 1
+08/26/2019 5:42:44 PM : Sending data '22663' to field 'By.xpath: //*[text()='Contract Number:']//following::input[1]'
+08/26/2019 5:42:44 PM : Sending data 'Test Automation Contract' to field 'By.xpath: //*[text()='Contract Description:']//following::textarea[1]'
+08/26/2019 5:42:44 PM : Counting the occurence of element 'By.xpath: //*[text()='Contract Duration:']//following::select[1]'
+08/26/2019 5:42:44 PM : Count is : 1
+08/26/2019 5:42:44 PM : Selecting index '2' from 'By.xpath: //*[text()='Contract Duration:']//following::select[1]'
+08/26/2019 5:42:44 PM : Waiting for '1' seconds
+08/26/2019 5:42:45 PM : Getting selected value from 'By.xpath: //*[text()='Contract Duration:']//following::select[1]'
+08/26/2019 5:42:45 PM : Selected value is : 6
+08/26/2019 5:42:45 PM : Selected value : 6
+08/26/2019 5:42:45 PM : Counting the occurence of element 'By.xpath: //input[@value='Submit']'
+08/26/2019 5:42:46 PM : Count is : 1
+08/26/2019 5:42:46 PM : Clicking on element 'By.xpath: //input[@value='Submit']'
+08/26/2019 5:42:46 PM : Waiting for '2' seconds
+08/26/2019 5:42:48 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:42:48 PM : Count is : 0
+08/26/2019 5:42:48 PM : Waiting '80' seconds for 'By.xpath: //*[text()='Service Order Lines']' to appear
+08/26/2019 5:42:50 PM : Waiting '4' seconds for 'By.xpath: //*[text()[contains(.,'Service Package successfully provisioned')]]' to appear
+08/26/2019 5:42:50 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:42:50 PM : Count is : 1
+08/26/2019 5:42:50 PM : Counting the occurence of element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 5:42:50 PM : Count is : 1
+08/26/2019 5:42:50 PM : Clicking on element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 5:42:50 PM : Waiting '4' seconds for 'By.xpath: (//input[@value='OK'])[last()]' to disappear
+08/26/2019 5:42:50 PM : Getting text from 'By.xpath: //*[text()='Account Number:']//following::span[1]'
+08/26/2019 5:42:50 PM : Text is : 290005700000
+08/26/2019 5:42:50 PM : Getting text from 'By.xpath: //*[text()='Service No:']//following::span[1]'
+08/26/2019 5:42:51 PM : Text is : 78902537
+08/26/2019 5:42:51 PM : Getting text from 'By.xpath: //*[text()='Service Order No:']//following::span[1]'
+08/26/2019 5:42:51 PM : Text is : C00131H
+08/26/2019 5:42:51 PM : Counting the occurence of element 'By.xpath: //*[text()='Payment Summary']//following::tbody[2]//descendant::input[@checked='checked']'
+08/26/2019 5:42:51 PM : Count is : 0
+08/26/2019 5:42:51 PM : Counting the occurence of element 'By.xpath: //*[text()='Municipality Code:']//following::select[1]'
+08/26/2019 5:42:51 PM : Count is : 0
+08/26/2019 5:42:51 PM : Counting the occurence of element 'By.xpath: //*[text()='Contact Name:']//following::input[1]'
+08/26/2019 5:42:51 PM : Count is : 1
+08/26/2019 5:42:51 PM : Sending data 'Test Name' to field 'By.xpath: //*[text()='Contact Name:']//following::input[1]'
+08/26/2019 5:42:51 PM : Counting the occurence of element 'By.xpath: //*[text()='Contact No :']//following::input[1]'
+08/26/2019 5:42:51 PM : Count is : 1
+08/26/2019 5:42:51 PM : Sending data '22663' to field 'By.xpath: //*[text()='Contact No :']//following::input[1]'
+08/26/2019 5:42:51 PM : Waiting '4' seconds for 'By.xpath: //input[@value='Submit Order']' to appear
+08/26/2019 5:42:51 PM : Clicking on element 'By.xpath: //input[@value='Submit Order']'
+08/26/2019 5:42:51 PM : Waiting for '4' seconds
+08/26/2019 5:42:55 PM : Counting the occurence of element 'By.xpath: //*[text()='Service order signed off successfully.']'
+08/26/2019 5:42:55 PM : Count is : 0
+08/26/2019 5:42:55 PM : Counting the occurence of element 'By.xpath: //*[text()='Account eBilling Email Address Entry']//following::input[1]'
+08/26/2019 5:42:55 PM : Count is : 0
+08/26/2019 5:42:55 PM : Counting the occurence of element 'By.xpath: //input[@value='Sign Off']'
+08/26/2019 5:42:55 PM : Count is : 0
+08/26/2019 5:42:55 PM : Counting the occurence of element 'By.xpath: //*[@value = 'Accept']'
+08/26/2019 5:42:55 PM : Count is : 0
+08/26/2019 5:42:55 PM : Counting the occurence of element 'By.xpath: //input[@value='OK']'
+08/26/2019 5:42:55 PM : Count is : 1
+08/26/2019 5:42:55 PM : Counting the occurence of element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 5:42:55 PM : Count is : 1
+08/26/2019 5:42:55 PM : Clicking on element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 5:42:55 PM : Waiting '4' seconds for 'By.xpath: (//input[@value='OK'])[last()]' to disappear
+08/26/2019 5:42:57 PM : Waiting for '4' seconds
+08/26/2019 5:43:01 PM : Counting the occurence of element 'By.xpath: //*[text()='Service order signed off successfully.']'
+08/26/2019 5:43:01 PM : Count is : 0
+08/26/2019 5:43:01 PM : Counting the occurence of element 'By.xpath: //*[text()='Account eBilling Email Address Entry']//following::input[1]'
+08/26/2019 5:43:01 PM : Count is : 0
+08/26/2019 5:43:01 PM : Counting the occurence of element 'By.xpath: //input[@value='Sign Off']'
+08/26/2019 5:43:01 PM : Count is : 0
+08/26/2019 5:43:01 PM : Counting the occurence of element 'By.xpath: //*[@value = 'Accept']'
+08/26/2019 5:43:01 PM : Count is : 1
+08/26/2019 5:43:01 PM : Clicking on element 'By.xpath: //*[@value = 'Accept']'
+08/26/2019 5:43:01 PM : Waiting '4' seconds for 'By.xpath: //*[@value = 'Accept']' to disappear
+08/26/2019 5:43:03 PM : Waiting for '2' seconds
+08/26/2019 5:43:05 PM : Waiting for '4' seconds
+08/26/2019 5:43:09 PM : Counting the occurence of element 'By.xpath: //*[text()='Service order signed off successfully.']'
+08/26/2019 5:43:09 PM : Count is : 1
+08/26/2019 5:43:09 PM : Counting the occurence of element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 5:43:09 PM : Count is : 1
+08/26/2019 5:43:09 PM : Clicking on element 'By.xpath: (//input[@value='OK'])[last()]'
+08/26/2019 5:43:09 PM : Waiting '4' seconds for 'By.xpath: (//input[@value='OK'])[last()]' to disappear
+08/26/2019 5:43:11 PM : Counting the occurence of element 'By.xpath: //*[text()='Do you wish to allocate MAC Addresses and Smart Card references?']'
+08/26/2019 5:43:11 PM : Count is : 0
+08/26/2019 5:43:11 PM : Waiting '4' seconds for 'By.xpath: (//th[contains(@class,'ui-widget-header')]//child::div//descendant::input)[2]' to appear
+08/26/2019 5:43:11 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[2]//span'
+08/26/2019 5:43:11 PM : Text is : C00131H
+08/26/2019 5:43:11 PM : Waiting '4' seconds for 'By.xpath: (//th[contains(@class,'ui-widget-header')]//child::div//descendant::input)[2]' to appear
+08/26/2019 5:43:11 PM : Getting text from 'By.xpath: //tr[@id[contains(.,'serviceOrderForm:serviceOrdersTabSet:0:')]][1]//td[6]//span'
+08/26/2019 5:43:11 PM : Text is : PCL PCH
